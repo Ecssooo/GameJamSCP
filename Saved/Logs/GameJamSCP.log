@@ -7785,3 +7785,196 @@ Sampler Limit: 32
 [2025.10.02-11.17.16:344][230]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.02-11.17.16:344][230]AssetCheck: /Game/3D/Material/prisonnier/MI_Pri Validating asset
 [2025.10.02-11.17.16:345][230]AssetCheck: /Game/3D/Material/M_Material_TwoSided Validating asset
+[2025.10.02-11.18.18:515][202]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.02-11.54.21:856][203]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.02-11.54.21:857][203]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14732
+[2025.10.02-11.54.21:868][203]LogHttp: Warning: 00000815A9145400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-11.54.21:868][203]LogHttp: Warning: 00000815A9145400: libcurl info message cache 0 (Too old connection (2205 seconds idle), disconnect it)
+[2025.10.02-11.54.21:868][203]LogHttp: Warning: 00000815A9145400: libcurl info message cache 1 (Connection 12 seems to be dead)
+[2025.10.02-11.54.21:868][203]LogHttp: Warning: 00000815A9145400: libcurl info message cache 2 (Closing connection)
+[2025.10.02-11.54.21:868][203]LogHttp: Warning: 00000815A9145400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.02-11.54.21:868][203]LogHttp: Warning: 00000815A9145400: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.02-11.54.21:868][203]LogHttp: Warning: 00000815A9145400: libcurl info message cache 5 (Closing connection)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4170E06C-40F0-5F05-74F1-28A9DF9A5016%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 0 (Too old connection (2206 seconds idle), disconnect it)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 1 (Connection 43 seems to be dead)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 2 (Closing connection)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 4 (Too old connection (2266 seconds idle), disconnect it)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 5 (Connection 44 seems to be dead)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 6 (Closing connection)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 7 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 9 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-11.54.22:167][204]LogEOSSDK: Warning: LogHttp: 0000081572447800: libcurl info message cache 10 (Closing connection)
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: 000008157244AE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: 000008157244AE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: 000008157244AE00: libcurl info message cache 0 (Found bundle for host: 0x8150d880c90 [serially])
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: 000008157244AE00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: 000008157244AE00: libcurl info message cache 2 (Closing connection)
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: 0000081572448400: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: 0000081572448400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: 0000081572448400: libcurl info message cache 0 (Found bundle for host: 0x8150d880c90 [serially])
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: 0000081572448400: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: 0000081572448400: libcurl info message cache 2 (Closing connection)
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4170E06C-40F0-5F05-74F1-28A9DF9A5016%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-11.54.22:167][205]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-11.54.22:503][205]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-11.54.23:201][207]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-11.54.23:201][208]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-11.54.24:157][210]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.02-11.54.24:161][210]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{85c7beb2-bb0c-4297-b96c-67186c8c0432}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=2044.90
+[2025.10.02-11.54.24:162][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.02-11.54.24:167][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.02-11.54.24:501][211]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-11.54.24:501][211]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-11.54.31:931][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.02-11.54.31:934][233]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D/Test' took 0.016
+[2025.10.02-11.54.31:934][233]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Assets/prisonnier/P_Pri] ([1] browsable assets)...
+[2025.10.02-11.54.32:020][233]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/Assets/prisonnier/P_Pri.P_Pri]
+[2025.10.02-11.54.32:020][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/prisonnier/P_Pri]
+[2025.10.02-11.54.32:020][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/prisonnier/P_Pri" FILE="../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Assets/prisonnier/P_Pri_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.10.02-11.54.32:044][233]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Assets/prisonnier/P_Pri_Auto1
+[2025.10.02-11.54.32:044][233]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/P_Pri_Auto186C4BE98493261913A56F88E75239042.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Assets/prisonnier/P_Pri_Auto1.uasset'
+[2025.10.02-11.54.32:044][233]LogFileHelpers: Auto-saving content packages took 0.111
+[2025.10.02-11.55.13:503][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12698.448242
+[2025.10.02-11.55.14:502][361]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-11.55.14:502][361]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12699.114258, Update Interval: 356.835846
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 0 (Found bundle for host: 0x8149e840840 [serially])
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 6 (Closing connection)
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B30807201-475F-8F92-C6F2-55B31EFA009D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=69e748ab4945cf2c20fedca757ec870d%7C5194bb1bb18f4ccaab3e5b7d74d73afc%7C8d783dd9-f1f9-41f3-b319-441c92f4b381&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 9 (  Trying 18.209.193.29:443...)
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (18.209.193.29) port 443)
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.10.02-11.55.42:838][446]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 12 (SSL reusing session ID)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 23 (Server certificate:)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 30 (using HTTP/1.1)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 32 (Closing connection)
+[2025.10.02-11.55.42:838][447]LogHttp: Warning: 00000815C48FEE00: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.02-11.57.01:897][867]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.01:897][867]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.01:897][867]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.01:897][867]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.01:897][867]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.01:897][867]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.01:897][867]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.01:897][867]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.01:897][867]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.06:908][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.02-11.57.06:915][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-11.57.07:000][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/Machine/machine_pack852_1001_BaseColor] ([1] browsable assets)...
+[2025.10.02-11.57.07:000][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Machine/machine_pack852_1001_BaseColor]
+[2025.10.02-11.57.07:142][159]LogSavePackage: Moving output files for package: /Game/3D/Texture/Machine/machine_pack852_1001_BaseColor
+[2025.10.02-11.57.07:142][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/machine_pack852_1001_BaseColor548F61DE414212CCD43B0EB55790A1DD.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Machine/machine_pack852_1001_BaseColor.uasset'
+[2025.10.02-11.57.07:144][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/Machine/machine_pack852_1001_Normal] ([1] browsable assets)...
+[2025.10.02-11.57.07:144][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Machine/machine_pack852_1001_Normal]
+[2025.10.02-11.57.07:308][159]LogSavePackage: Moving output files for package: /Game/3D/Texture/Machine/machine_pack852_1001_Normal
+[2025.10.02-11.57.07:308][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/machine_pack852_1001_NormalE4A7EC114993288398B8EE805F213D4C.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Machine/machine_pack852_1001_Normal.uasset'
+[2025.10.02-11.57.07:310][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/Machine/machine_pack852_1001_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.10.02-11.57.07:310][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Machine/machine_pack852_1001_OcclusionRoughnessMetallic]
+[2025.10.02-11.57.07:417][159]LogSavePackage: Moving output files for package: /Game/3D/Texture/Machine/machine_pack852_1001_OcclusionRoughnessMetallic
+[2025.10.02-11.57.07:417][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/machine_pack852_1001_OcclusionRo51C0690A4B6AE46B1AECB2BE78BC8AB4.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Machine/machine_pack852_1001_OcclusionRoughnessMetallic.uasset'
+[2025.10.02-11.57.07:420][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Material/Machine/MI_Machine] ([1] browsable assets)...
+[2025.10.02-11.57.07:420][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Material/Machine/MI_Machine]
+[2025.10.02-11.57.07:420][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Material/Machine/MI_Machine" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Machine/MI_Machine.uasset" SILENT=true
+[2025.10.02-11.57.07:421][159]LogSavePackage: Moving output files for package: /Game/3D/Material/Machine/MI_Machine
+[2025.10.02-11.57.07:422][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/MI_MachineD91C204940DDB14568B046A2D7AC0705.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Machine/MI_Machine.uasset'
+[2025.10.02-11.57.07:422][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_Emissive] ([1] browsable assets)...
+[2025.10.02-11.57.07:422][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_Emissive]
+[2025.10.02-11.57.07:428][159]LogSavePackage: Moving output files for package: /Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_Emissive
+[2025.10.02-11.57.07:428][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/PRISONNERpaslink_Material_EmissiEE737C2C4BB481E10399FBB06BD73360.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/prisonnier/PRISONNERpaslink_Material_Emissive.uasset'
+[2025.10.02-11.57.07:429][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_Normal] ([1] browsable assets)...
+[2025.10.02-11.57.07:429][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_Normal]
+[2025.10.02-11.57.07:448][159]LogSavePackage: Moving output files for package: /Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_Normal
+[2025.10.02-11.57.07:449][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/PRISONNERpaslink_Material_Normal177466424FDF3FD32A05D6AC4B42FFD3.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/prisonnier/PRISONNERpaslink_Material_Normal.uasset'
+[2025.10.02-11.57.07:450][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_BaseColor] ([1] browsable assets)...
+[2025.10.02-11.57.07:450][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_BaseColor]
+[2025.10.02-11.57.07:471][159]LogSavePackage: Moving output files for package: /Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_BaseColor
+[2025.10.02-11.57.07:471][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/PRISONNERpaslink_Material_BaseCo53BAFE584E98098CDC457FA0DAC511D9.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/prisonnier/PRISONNERpaslink_Material_BaseColor.uasset'
+[2025.10.02-11.57.07:472][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Machine/socle_jeu_002] ([1] browsable assets)...
+[2025.10.02-11.57.07:472][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Machine/socle_jeu_002]
+[2025.10.02-11.57.07:472][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Machine/socle_jeu_002" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Machine/socle_jeu_002.uasset" SILENT=true
+[2025.10.02-11.57.07:477][159]LogSavePackage: Moving output files for package: /Game/3D/Assets/Machine/socle_jeu_002
+[2025.10.02-11.57.07:477][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/socle_jeu_002485E03EA4FB82693E396429A790A3E8E.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Machine/socle_jeu_002.uasset'
+[2025.10.02-11.57.07:478][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Machine/vitre_face_002] ([1] browsable assets)...
+[2025.10.02-11.57.07:478][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Machine/vitre_face_002]
+[2025.10.02-11.57.07:478][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Machine/vitre_face_002" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Machine/vitre_face_002.uasset" SILENT=true
+[2025.10.02-11.57.07:500][159]LogSavePackage: Moving output files for package: /Game/3D/Assets/Machine/vitre_face_002
+[2025.10.02-11.57.07:500][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/vitre_face_002F56A6319445E441D5A0F39AE8D266F2D.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Machine/vitre_face_002.uasset'
+[2025.10.02-11.57.07:501][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Machine/bouton1] ([1] browsable assets)...
+[2025.10.02-11.57.07:501][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Machine/bouton1]
+[2025.10.02-11.57.07:501][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Machine/bouton1" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Machine/bouton1.uasset" SILENT=true
+[2025.10.02-11.57.07:504][159]LogSavePackage: Moving output files for package: /Game/3D/Assets/Machine/bouton1
+[2025.10.02-11.57.07:504][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/bouton1149C3FE34424504B7F93ED94F8F19A33.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Machine/bouton1.uasset'
+[2025.10.02-11.57.07:505][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Machine/bouton2] ([1] browsable assets)...
+[2025.10.02-11.57.07:505][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Machine/bouton2]
+[2025.10.02-11.57.07:505][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Machine/bouton2" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Machine/bouton2.uasset" SILENT=true
+[2025.10.02-11.57.07:508][159]LogSavePackage: Moving output files for package: /Game/3D/Assets/Machine/bouton2
+[2025.10.02-11.57.07:508][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/bouton29B7D5D904D2CA9B26F775C969B10CD0E.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Machine/bouton2.uasset'
+[2025.10.02-11.57.07:508][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Material/Machine/MI_GlassMachine] ([1] browsable assets)...
+[2025.10.02-11.57.07:508][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Material/Machine/MI_GlassMachine]
+[2025.10.02-11.57.07:508][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Material/Machine/MI_GlassMachine" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Machine/MI_GlassMachine.uasset" SILENT=true
+[2025.10.02-11.57.07:510][159]LogSavePackage: Moving output files for package: /Game/3D/Material/Machine/MI_GlassMachine
+[2025.10.02-11.57.07:510][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/MI_GlassMachineEB0C01F84F21C15C50E4E9B597FA30CE.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Machine/MI_GlassMachine.uasset'
+[2025.10.02-11.57.07:511][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/prisonnier/P_Pri] ([1] browsable assets)...
+[2025.10.02-11.57.07:511][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/prisonnier/P_Pri]
+[2025.10.02-11.57.07:511][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/prisonnier/P_Pri" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/prisonnier/P_Pri.uasset" SILENT=true
+[2025.10.02-11.57.07:533][159]LogSavePackage: Moving output files for package: /Game/3D/Assets/prisonnier/P_Pri
+[2025.10.02-11.57.07:533][159]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/P_Pri76E43ABD47717FE0706017BFFC57187A.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/prisonnier/P_Pri.uasset'
+[2025.10.02-11.57.07:549][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 633.388 ms (total: 5.10 sec)
+[2025.10.02-11.57.07:647][159]LogContentValidation: Display: Starting to validate 13 assets
+[2025.10.02-11.57.07:647][159]LogContentValidation: Enabled validators:
+[2025.10.02-11.57.07:647][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-11.57.07:647][159]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-11.57.07:647][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-11.57.07:647][159]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-11.57.07:647][159]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-11.57.07:647][159]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Texture/Machine/machine_pack852_1001_BaseColor Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Texture/Machine/machine_pack852_1001_Normal Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Texture/Machine/machine_pack852_1001_OcclusionRoughnessMetallic Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Material/Machine/MI_Machine Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_Emissive Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_Normal Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Texture/prisonnier/PRISONNERpaslink_Material_BaseColor Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Assets/Machine/socle_jeu_002 Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Assets/Machine/vitre_face_002 Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Assets/Machine/bouton1 Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Assets/Machine/bouton2 Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Material/Machine/MI_GlassMachine Validating asset
+[2025.10.02-11.57.07:647][159]AssetCheck: /Game/3D/Assets/prisonnier/P_Pri Validating asset
+[2025.10.02-11.57.07:771][162]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.07:771][162]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.07:771][162]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.07:771][162]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.07:771][162]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.07:771][162]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.07:771][162]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.07:771][162]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-11.57.07:771][162]LogStaticMesh: Warning: Invalid material [MI_GlassMachine] used on Nanite static mesh [vitre_face_002]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
