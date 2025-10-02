@@ -13333,3 +13333,234 @@ Sampler Limit: 32
 [2025.10.02-13.12.33:781][707]AssetCheck: /Game/3D/Animation/Animation_HandMiddleF Validating asset
 [2025.10.02-13.12.36:300][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2025.10.02-13.12.36:304][822]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D/Test' took 0.015
+[2025.10.02-13.17.18:037][538]LogDerivedDataCache: C:/Users/zheng/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.02-13.18.02:920][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17668.738281
+[2025.10.02-13.18.03:920][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-13.18.03:920][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17669.404297, Update Interval: 318.016296
+[2025.10.02-13.22.37:029][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.02-13.22.37:033][494]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D/Test' took 0.015
+[2025.10.02-13.24.11:949][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18037.804688
+[2025.10.02-13.24.12:948][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-13.24.12:948][782]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18038.472656, Update Interval: 359.426849
+[2025.10.02-13.31.09:314][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18455.347656
+[2025.10.02-13.31.10:313][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-13.31.10:313][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18456.015625, Update Interval: 353.345734
+[2025.10.02-13.32.37:759][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.02-13.32.37:762][296]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D/Test' took 0.014
+[2025.10.02-13.37.48:014][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18854.310547
+[2025.10.02-13.37.49:013][230]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-13.37.49:013][230]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18854.976562, Update Interval: 350.315247
+[2025.10.02-13.42.38:479][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.02-13.42.38:482][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D/Test' took 0.014
+[2025.10.02-13.44.37:049][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19263.625000
+[2025.10.02-13.44.38:049][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-13.44.38:049][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19264.292969, Update Interval: 313.249908
+[2025.10.02-13.50.29:407][511]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19616.240234
+[2025.10.02-13.50.30:407][514]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-13.50.30:407][514]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19616.908203, Update Interval: 355.885498
+[2025.10.02-13.52.38:875][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.02-13.52.38:879][899]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D/Test' took 0.020
+[2025.10.02-13.57.19:789][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20026.822266
+[2025.10.02-13.57.20:789][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-13.57.20:789][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20027.488281, Update Interval: 324.209106
+[2025.10.02-14.02.39:584][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.02-14.02.39:586][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D/Test' took 0.014
+[2025.10.02-14.03.27:485][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20394.679688
+[2025.10.02-14.03.28:486][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-14.03.28:486][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20395.345703, Update Interval: 308.630035
+[2025.10.02-14.07.01:298][459]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.02-14.07.01:311][459]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.02-14.07.01:325][460]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.02-14.07.03:339][579]LogContentBrowser: Attempting asset rename: NewFolder -> Chaise
+[2025.10.02-14.07.03:341][579]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.02-14.07.19:716][365]LogStreaming: Display: FlushAsyncLoading(786): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-14.07.19:759][365]LogInterchangeEngine: [Pending] Importing
+[2025.10.02-14.07.19:759][365]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/zheng/Downloads/chaise_Material_Normal.1001.png]
+[2025.10.02-14.07.19:760][365]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.02-14.07.19:760][365]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/zheng/Downloads/chaise_Material_OcclusionRoughnessMetallic.1001.png]
+[2025.10.02-14.07.19:760][365]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.02-14.07.19:761][365]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/zheng/Downloads/chaise_Material_BaseColor.1001.png]
+[2025.10.02-14.07.20:410][367]LogStreaming: Display: FlushAsyncLoading(789): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-14.07.20:759][368]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.10.02-14.07.20:778][369]LogTexture: Display: Building textures: /Game/3D/Texture/Chaise/chaise_Material_Normal.chaise_Material_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.10.02-14.07.20:868][370]LogTexture: Display: Building textures: /Game/3D/Texture/Chaise/chaise_Material_OcclusionRoughnessMetallic.chaise_Material_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.10.02-14.07.20:883][370]LogTexture: Display: Building textures: /Game/3D/Texture/Chaise/chaise_Material_BaseColor.chaise_Material_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.10.02-14.07.20:918][370]LogInterchangeEngine: Display: Interchange import completed [C:/Users/zheng/Downloads/chaise_Material_Normal.1001.png]
+[2025.10.02-14.07.20:919][370]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.02-14.07.21:058][373]LogInterchangeEngine: Display: Interchange import completed [C:/Users/zheng/Downloads/chaise_Material_OcclusionRoughnessMetallic.1001.png]
+[2025.10.02-14.07.21:058][373]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.10.02-14.07.21:092][374]LogInterchangeEngine: Display: Interchange import completed [C:/Users/zheng/Downloads/chaise_Material_BaseColor.1001.png]
+[2025.10.02-14.07.21:117][374]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.02-14.07.21:117][374]LogInterchangeEngine: [Success] Import Done
+[2025.10.02-14.07.25:890][623]LogContentBrowser: Deferred new asset folder creation: NewFolder1
+[2025.10.02-14.07.25:903][623]LogContentBrowser: Creating deferred item: NewFolder1
+[2025.10.02-14.07.25:916][624]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder1).
+[2025.10.02-14.07.27:825][739]LogContentBrowser: Attempting asset rename: NewFolder1 -> Chaise
+[2025.10.02-14.07.27:826][739]LogContentBrowser: End creating deferred item NewFolder1
+[2025.10.02-14.08.45:189][358]LogContentBrowser: Deferred new asset file creation: M_Material_Inst
+[2025.10.02-14.08.45:200][358]LogContentBrowser: Creating deferred item: M_Material_Inst
+[2025.10.02-14.08.45:212][359]LogContentBrowser: Renaming the item being created (Deferred Item: M_Material_Inst).
+[2025.10.02-14.08.48:990][586]LogContentBrowser: Attempting asset rename: M_Material_Inst -> MI_Chaise
+[2025.10.02-14.08.48:991][586]LogContentBrowser: End creating deferred item M_Material_Inst
+[2025.10.02-14.08.53:080][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-14.08.53:080][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Material/Chaise/MI_Chaise] ([1] browsable assets)...
+[2025.10.02-14.08.53:112][789]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/3D/Material/Chaise/MI_Chaise.MI_Chaise]
+[2025.10.02-14.08.53:112][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Material/Chaise/MI_Chaise]
+[2025.10.02-14.08.53:112][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Material/Chaise/MI_Chaise" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Chaise/MI_Chaise.uasset" SILENT=true
+[2025.10.02-14.08.53:114][789]LogSavePackage: Moving output files for package: /Game/3D/Material/Chaise/MI_Chaise
+[2025.10.02-14.08.53:114][789]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/MI_Chaise7218A7E84656CA03A7D9EF83244E3F25.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Chaise/MI_Chaise.uasset'
+[2025.10.02-14.08.53:115][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.750 ms (total: 10.1 sec)
+[2025.10.02-14.08.53:175][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.02-14.08.53:194][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.02-14.08.53:211][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.02-14.08.53:295][789]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.02-14.08.53:295][789]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.02-14.08.53:295][789]LogContentValidation: Enabled validators:
+[2025.10.02-14.08.53:295][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-14.08.53:295][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-14.08.53:295][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-14.08.53:295][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-14.08.53:295][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-14.08.53:295][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-14.08.53:295][789]AssetCheck: /Game/3D/Material/Chaise/MI_Chaise Validating asset
+[2025.10.02-14.08.55:956][940]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/3D/Material/Chaise/MI_Chaise.MI_Chaise
+[2025.10.02-14.08.55:959][940]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.10.02-14.09.33:954][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20761.400391
+[2025.10.02-14.09.34:122][141]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-14.09.34:122][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20761.550781, Update Interval: 326.437561
+[2025.10.02-14.10.18:473][768]LogContentBrowser: Deferred new asset folder creation: NewFolder1
+[2025.10.02-14.10.18:486][768]LogContentBrowser: Creating deferred item: NewFolder1
+[2025.10.02-14.10.18:499][769]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder1).
+[2025.10.02-14.10.20:212][870]LogContentBrowser: Attempting asset rename: NewFolder1 -> Chaise
+[2025.10.02-14.10.20:212][870]LogContentBrowser: End creating deferred item NewFolder1
+[2025.10.02-14.10.47:773][832]LogStreaming: Display: FlushAsyncLoading(792): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-14.10.47:861][832]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/zheng/Downloads/chaise_join.fbx]
+[2025.10.02-14.10.54:295][832]LogSlate: Window 'Import Content' being destroyed
+[2025.10.02-14.10.54:359][832]LogInterchangeEngine: [Pending] Importing
+[2025.10.02-14.10.54:470][834]LogStreaming: Display: FlushAsyncLoading(793): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-14.10.54:519][836]LogStaticMesh: Display: Building static mesh P_Chaise (Required Memory Estimate: 13.846225 MB)...
+[2025.10.02-14.10.54:556][836]LogStaticMesh: Adjacency [0.00s], tris: 9020, UVs 1
+[2025.10.02-14.10.54:573][836]LogStaticMesh: Clustering [0.02s]. Ratio: 1.014084
+[2025.10.02-14.10.54:575][836]LogStaticMesh: Leaves [0.00s]
+[2025.10.02-14.10.54:806][841]LogStaticMesh: Reduce [0.23s]
+[2025.10.02-14.10.54:907][848]LogStaticMesh: Fallback [0.10s], num tris: 1489
+[2025.10.02-14.10.54:911][848]LogStaticMesh: ConstrainClusters:
+[2025.10.02-14.10.54:911][848]LogStaticMesh:   Input: 149 Clusters, 18718 Triangles and 17723 Vertices
+[2025.10.02-14.10.54:911][848]LogStaticMesh:   Output without splits: 149 Clusters, 18718 Triangles and 17766 Vertices
+[2025.10.02-14.10.54:911][848]LogStaticMesh:   Output with splits: 149 Clusters, 18718 Triangles and 17766 Vertices
+[2025.10.02-14.10.54:911][848]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 149, Slow Path Clusters: 0, 1 Material: 149, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.02-14.10.54:915][848]LogStaticMesh: WritePages:
+[2025.10.02-14.10.54:915][848]LogStaticMesh:   Root: GPU size: 31892 bytes. 1 Pages. 31892.000 bytes per page (97.327% utilization).
+[2025.10.02-14.10.54:915][848]LogStaticMesh:   Streaming: GPU size: 186896 bytes. 2 Pages (2 with relative encoding). 93448.000 bytes per page (71.295% utilization).
+[2025.10.02-14.10.54:915][848]LogStaticMesh:   Page data disk size: 176960 bytes. Fixup data size: 744 bytes.
+[2025.10.02-14.10.54:915][848]LogStaticMesh:   Total GPU size: 218788 bytes, Total disk size: 177704 bytes.
+[2025.10.02-14.10.54:915][848]LogStaticMesh: Encode [0.01s]
+[2025.10.02-14.10.54:915][848]LogStaticMesh: Nanite build [0.36s]
+
+[2025.10.02-14.10.54:925][848]LogStaticMesh: Built static mesh [0.41s] /Game/3D/Assets/Chaise/P_Chaise.P_Chaise
+[2025.10.02-14.10.55:011][851]LogInterchangeEngine: Display: Interchange import completed [C:/Users/zheng/Downloads/chaise_join.fbx]
+[2025.10.02-14.10.55:011][851]Interchange: Warning: [C:/Users/zheng/Downloads/chaise_join.fbx : 'P_Chaise', StaticMesh] No smoothing group information was found for this mesh 'Plane_006' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.10.02-14.10.55:053][851]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.02-14.10.55:053][851]LogInterchangeEngine: [Success] Import Done
+[2025.10.02-14.10.56:147][896]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D/Assets/Chaise/P_Chaise.P_Chaise
+[2025.10.02-14.10.56:147][896]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D/Assets/Chaise/P_Chaise.P_Chaise
+[2025.10.02-14.10.56:147][896]LogActorFactory: Actor Factory spawned StaticMesh /Game/3D/Assets/Chaise/P_Chaise.P_Chaise as actor: StaticMeshActor /Game/3D/Test.Test:PersistentLevel.StaticMeshActor_25
+[2025.10.02-14.10.57:722][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.02-14.10.57:728][982]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2025.10.02-14.10.57:736][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D/Assets/Chaise/P_Chaise.P_Chaise
+[2025.10.02-14.10.57:736][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D/Assets/Chaise/P_Chaise.P_Chaise
+[2025.10.02-14.10.57:739][982]LogActorFactory: Actor Factory spawned StaticMesh /Game/3D/Assets/Chaise/P_Chaise.P_Chaise as actor: StaticMeshActor /Game/3D/Test.Test:PersistentLevel.StaticMeshActor_UAID_088FC3615178999402_2030395738
+[2025.10.02-14.11.00:067][114]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.00:067][114]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.00:067][114]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.00:067][114]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.00:067][114]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.00:067][114]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.00:067][114]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.00:067][114]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.00:082][115]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.00:082][115]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.21:127][291]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D/Assets/Chaise/P_Chaise.P_Chaise
+[2025.10.02-14.11.21:150][291]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.10.02-14.11.28:353][587]LogSlate: Window 'P_Chaise' being destroyed
+[2025.10.02-14.11.28:368][587]LogSlate: Window 'P_Chaise' being destroyed
+[2025.10.02-14.11.28:437][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.02-14.11.28:552][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.02-14.11.28:665][587]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-14.11.28:665][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-14.11.28:691][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.02-14.11.31:066][728]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.31:066][728]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.31:066][728]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.31:066][728]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.31:066][728]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.31:066][728]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.31:066][728]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.31:066][728]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.31:066][728]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.31:066][728]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-14.11.36:914][ 64]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/3D/Material/Chaise/MI_Chaise.MI_Chaise
+[2025.10.02-14.11.36:917][ 64]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.10.02-14.11.41:812][304]LogSlate: Window 'MI_Chaise' being destroyed
+[2025.10.02-14.11.41:823][304]LogSlate: Window 'MI_Chaise' being destroyed
+[2025.10.02-14.11.41:865][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.02-14.11.41:970][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.10.02-14.11.42:916][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-14.11.43:009][349]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/3D/Test/1/15/IB0CTY8N1ZY2CSTNO03OX8
+[2025.10.02-14.11.43:009][349]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/IB0CTY8N1ZY2CSTNO03OX8DF22EF3B472107B5C42DA98BADDF2937.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/__ExternalActors__/3D/Test/1/15/IB0CTY8N1ZY2CSTNO03OX8.uasset'
+[2025.10.02-14.11.43:025][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.809 ms (total: 10.2 sec)
+[2025.10.02-14.11.43:116][349]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.02-14.11.43:116][349]LogContentValidation: Enabled validators:
+[2025.10.02-14.11.43:116][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-14.11.43:116][349]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-14.11.43:116][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-14.11.43:116][349]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-14.11.43:116][349]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-14.11.43:116][349]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-14.11.43:116][349]AssetCheck: /Game/3D/Test Validating asset
+[2025.10.02-14.11.44:750][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.02-14.11.44:759][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-14.11.44:859][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.10.02-14.11.44:861][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Texture/Chaise/chaise_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.10.02-14.11.44:863][429]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Texture/Chaise/chaise_Material_OcclusionRoughnessMetallic.chaise_Material_OcclusionRoughnessMetallic]
+[2025.10.02-14.11.44:863][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Chaise/chaise_Material_OcclusionRoughnessMetallic]
+[2025.10.02-14.11.44:900][429]LogSavePackage: Moving output files for package: /Game/3D/Texture/Chaise/chaise_Material_OcclusionRoughnessMetallic
+[2025.10.02-14.11.44:900][429]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/chaise_Material_OcclusionRoughne5B80738E489268AF852FAF9DCE5999CE.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Chaise/chaise_Material_OcclusionRoughnessMetallic.uasset'
+[2025.10.02-14.11.44:901][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Texture/Chaise/chaise_Material_Normal] ([1] browsable assets)...
+[2025.10.02-14.11.44:904][429]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Texture/Chaise/chaise_Material_Normal.chaise_Material_Normal]
+[2025.10.02-14.11.44:904][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Chaise/chaise_Material_Normal]
+[2025.10.02-14.11.44:904][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Texture/Chaise/chaise_Material_Normal" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Chaise/chaise_Material_Normal.uasset" SILENT=true
+[2025.10.02-14.11.44:928][429]LogSavePackage: Moving output files for package: /Game/3D/Texture/Chaise/chaise_Material_Normal
+[2025.10.02-14.11.44:928][429]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/chaise_Material_NormalC8B790EA446C70FAA7132F879AE8799B.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Chaise/chaise_Material_Normal.uasset'
+[2025.10.02-14.11.44:928][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Texture/Chaise/chaise_Material_BaseColor] ([1] browsable assets)...
+[2025.10.02-14.11.44:930][429]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Texture/Chaise/chaise_Material_BaseColor.chaise_Material_BaseColor]
+[2025.10.02-14.11.44:930][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Chaise/chaise_Material_BaseColor]
+[2025.10.02-14.11.44:930][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Texture/Chaise/chaise_Material_BaseColor" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Chaise/chaise_Material_BaseColor.uasset" SILENT=true
+[2025.10.02-14.11.44:960][429]LogSavePackage: Moving output files for package: /Game/3D/Texture/Chaise/chaise_Material_BaseColor
+[2025.10.02-14.11.44:960][429]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/chaise_Material_BaseColor04CFC62149594AB1461BC0B93F2DE116.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Chaise/chaise_Material_BaseColor.uasset'
+[2025.10.02-14.11.44:961][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Material/Chaise/MI_Chaise] ([1] browsable assets)...
+[2025.10.02-14.11.44:989][429]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/3D/Material/Chaise/MI_Chaise.MI_Chaise]
+[2025.10.02-14.11.44:989][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Material/Chaise/MI_Chaise]
+[2025.10.02-14.11.44:989][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Material/Chaise/MI_Chaise" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Chaise/MI_Chaise.uasset" SILENT=true
+[2025.10.02-14.11.44:991][429]LogSavePackage: Moving output files for package: /Game/3D/Material/Chaise/MI_Chaise
+[2025.10.02-14.11.44:992][429]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/MI_Chaise798979834AA1090D93E733A1164A0B08.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Chaise/MI_Chaise.uasset'
+[2025.10.02-14.11.44:992][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Assets/Chaise/P_Chaise] ([1] browsable assets)...
+[2025.10.02-14.11.45:004][429]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/Assets/Chaise/P_Chaise.P_Chaise]
+[2025.10.02-14.11.45:004][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Chaise/P_Chaise]
+[2025.10.02-14.11.45:004][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Chaise/P_Chaise" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Chaise/P_Chaise.uasset" SILENT=true
+[2025.10.02-14.11.45:011][429]LogSavePackage: Moving output files for package: /Game/3D/Assets/Chaise/P_Chaise
+[2025.10.02-14.11.45:011][429]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/P_ChaiseF96824E04DE651BD937D049AFF41BA81.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Chaise/P_Chaise.uasset'
+[2025.10.02-14.11.45:029][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 270.558 ms (total: 10.4 sec)
+[2025.10.02-14.11.45:123][429]LogContentValidation: Display: Starting to validate 5 assets
+[2025.10.02-14.11.45:123][429]LogContentValidation: Enabled validators:
+[2025.10.02-14.11.45:123][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-14.11.45:123][429]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-14.11.45:123][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-14.11.45:123][429]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-14.11.45:123][429]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-14.11.45:123][429]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-14.11.45:124][429]AssetCheck: /Game/3D/Texture/Chaise/chaise_Material_OcclusionRoughnessMetallic Validating asset
+[2025.10.02-14.11.45:124][429]AssetCheck: /Game/3D/Texture/Chaise/chaise_Material_Normal Validating asset
+[2025.10.02-14.11.45:124][429]AssetCheck: /Game/3D/Texture/Chaise/chaise_Material_BaseColor Validating asset
+[2025.10.02-14.11.45:124][429]AssetCheck: /Game/3D/Material/Chaise/MI_Chaise Validating asset
+[2025.10.02-14.11.45:124][429]AssetCheck: /Game/3D/Assets/Chaise/P_Chaise Validating asset
