@@ -3431,3 +3431,885 @@ Sampler Limit: 32
 [2025.10.02-08.59.44:135][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/NewLevelSequence_Auto3
 [2025.10.02-08.59.44:135][544]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/NewLevelSequence_Auto36276FCE041BBEFA9853488A8ED1188D3.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/NewLevelSequence_Auto3.uasset'
 [2025.10.02-08.59.44:137][544]LogFileHelpers: Auto-saving content packages took 0.209
+[2025.10.02-09.04.16:534][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2441.882812
+[2025.10.02-09.04.17:533][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-09.04.17:533][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2442.549316, Update Interval: 321.784729
+[2025.10.02-09.10.29:345][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2814.698730
+[2025.10.02-09.10.30:346][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-09.10.30:346][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2815.366211, Update Interval: 358.879364
+[2025.10.02-09.12.21:543][731]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.02-09.12.21:552][731]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.02-09.12.21:565][732]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.02-09.12.23:927][874]LogContentBrowser: Attempting asset rename: NewFolder -> Debris
+[2025.10.02-09.12.23:928][874]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.02-09.12.41:840][167]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.02-09.12.41:853][167]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.02-09.12.41:863][168]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.02-09.12.43:191][248]LogContentBrowser: Attempting asset rename: NewFolder -> Debris
+[2025.10.02-09.12.43:192][248]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.02-09.12.56:355][498]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-09.12.56:391][498]LogInterchangeEngine: [Pending] Importing
+[2025.10.02-09.12.56:391][498]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/zheng/Downloads/dechet_Material_BaseColor.1001.png]
+[2025.10.02-09.12.56:392][498]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.02-09.12.56:392][498]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/zheng/Downloads/dechet_Material_Normal.1001.png]
+[2025.10.02-09.12.56:392][498]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.02-09.12.56:392][498]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/zheng/Downloads/dechet_Material_OcclusionRoughnessMetallic.1001.png]
+[2025.10.02-09.12.57:056][500]LogStreaming: Display: FlushAsyncLoading(713): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-09.12.57:172][506]LogTexture: Display: Building textures: /Game/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic.dechet_Material_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.10.02-09.12.57:207][506]LogTexture: Display: Building textures: /Game/3D/Texture/Debris/dechet_Material_BaseColor.dechet_Material_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.10.02-09.12.57:262][506]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.10.02-09.12.57:280][507]LogTexture: Display: Building textures: /Game/3D/Texture/Debris/dechet_Material_Normal.dechet_Material_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.10.02-09.12.57:353][509]LogInterchangeEngine: Display: Interchange import completed [C:/Users/zheng/Downloads/dechet_Material_OcclusionRoughnessMetallic.1001.png]
+[2025.10.02-09.12.57:354][509]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.02-09.12.57:419][511]LogInterchangeEngine: Display: Interchange import completed [C:/Users/zheng/Downloads/dechet_Material_BaseColor.1001.png]
+[2025.10.02-09.12.57:419][511]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.10.02-09.12.57:455][512]LogInterchangeEngine: Display: Interchange import completed [C:/Users/zheng/Downloads/dechet_Material_Normal.1001.png]
+[2025.10.02-09.12.57:472][512]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.02-09.12.57:472][512]LogInterchangeEngine: [Success] Import Done
+[2025.10.02-09.13.17:707][690]LogContentBrowser: Deferred new asset file creation: M_Material_Inst
+[2025.10.02-09.13.17:717][690]LogContentBrowser: Creating deferred item: M_Material_Inst
+[2025.10.02-09.13.17:729][691]LogContentBrowser: Renaming the item being created (Deferred Item: M_Material_Inst).
+[2025.10.02-09.13.21:590][920]LogContentBrowser: Attempting asset rename: M_Material_Inst -> MI_Debris
+[2025.10.02-09.13.21:590][920]LogContentBrowser: End creating deferred item M_Material_Inst
+[2025.10.02-09.13.22:718][987]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/3D/Material/MI_Debris.MI_Debris
+[2025.10.02-09.13.22:721][987]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.10.02-09.13.52:089][663]LogSlate: Window 'MI_Debris' being destroyed
+[2025.10.02-09.13.52:101][663]LogSlate: Window 'MI_Debris' being destroyed
+[2025.10.02-09.13.52:137][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.02-09.13.52:246][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.10.02-09.14.01:292][169]LogContentBrowser: Deferred new asset folder creation: NewFolder1
+[2025.10.02-09.14.01:307][169]LogContentBrowser: Creating deferred item: NewFolder1
+[2025.10.02-09.14.01:318][170]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder1).
+[2025.10.02-09.14.02:695][253]LogContentBrowser: Attempting asset rename: NewFolder1 -> Debris
+[2025.10.02-09.14.02:695][253]LogContentBrowser: End creating deferred item NewFolder1
+[2025.10.02-09.14.06:673][375]LogStreaming: Display: FlushAsyncLoading(716): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-09.14.06:751][375]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/zheng/Downloads/dechet_join.fbx]
+[2025.10.02-09.14.16:689][375]LogSlate: Window 'Import Content' being destroyed
+[2025.10.02-09.14.16:755][375]LogInterchangeEngine: [Pending] Importing
+[2025.10.02-09.14.16:842][377]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-09.14.16:885][379]LogStaticMesh: Display: Building static mesh P_Debris (Required Memory Estimate: 10.343334 MB)...
+[2025.10.02-09.14.16:910][379]LogStaticMesh: Adjacency [0.00s], tris: 6756, UVs 1
+[2025.10.02-09.14.16:922][379]LogStaticMesh: Clustering [0.01s]. Ratio: 1.018868
+[2025.10.02-09.14.16:923][379]LogStaticMesh: Leaves [0.00s]
+[2025.10.02-09.14.17:105][382]LogStaticMesh: Reduce [0.18s]
+[2025.10.02-09.14.17:200][385]LogStaticMesh: Fallback [0.09s], num tris: 2264
+[2025.10.02-09.14.17:203][386]LogStaticMesh: ConstrainClusters:
+[2025.10.02-09.14.17:203][386]LogStaticMesh:   Input: 110 Clusters, 13810 Triangles and 11132 Vertices
+[2025.10.02-09.14.17:203][386]LogStaticMesh:   Output without splits: 110 Clusters, 13810 Triangles and 11267 Vertices
+[2025.10.02-09.14.17:203][386]LogStaticMesh:   Output with splits: 110 Clusters, 13810 Triangles and 11267 Vertices
+[2025.10.02-09.14.17:204][386]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 110, Slow Path Clusters: 0, 1 Material: 110, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.02-09.14.17:208][386]LogStaticMesh: WritePages:
+[2025.10.02-09.14.17:208][386]LogStaticMesh:   Root: GPU size: 32560 bytes. 1 Pages. 32560.000 bytes per page (99.365% utilization).
+[2025.10.02-09.14.17:208][386]LogStaticMesh:   Streaming: GPU size: 106448 bytes. 1 Pages (1 with relative encoding). 106448.000 bytes per page (81.213% utilization).
+[2025.10.02-09.14.17:208][386]LogStaticMesh:   Page data disk size: 109700 bytes. Fixup data size: 376 bytes.
+[2025.10.02-09.14.17:208][386]LogStaticMesh:   Total GPU size: 139008 bytes, Total disk size: 110076 bytes.
+[2025.10.02-09.14.17:208][386]LogStaticMesh: Encode [0.01s]
+[2025.10.02-09.14.17:208][386]LogStaticMesh: Nanite build [0.30s]
+
+[2025.10.02-09.14.17:217][387]LogStaticMesh: Built static mesh [0.33s] /Game/3D/Assets/Debris/P_Debris.P_Debris
+[2025.10.02-09.14.17:278][389]LogInterchangeEngine: Display: Interchange import completed [C:/Users/zheng/Downloads/dechet_join.fbx]
+[2025.10.02-09.14.17:278][389]Interchange: Warning: [C:/Users/zheng/Downloads/dechet_join.fbx : 'P_Debris', StaticMesh] No smoothing group information was found for this mesh 'Gear' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.10.02-09.14.17:319][389]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.02-09.14.17:319][389]LogInterchangeEngine: [Success] Import Done
+[2025.10.02-09.14.18:651][452]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D/Assets/Debris/P_Debris.P_Debris
+[2025.10.02-09.14.18:651][452]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D/Assets/Debris/P_Debris.P_Debris
+[2025.10.02-09.14.18:651][452]LogActorFactory: Actor Factory spawned StaticMesh /Game/3D/Assets/Debris/P_Debris.P_Debris as actor: StaticMeshActor /Game/3D/Test.Test:PersistentLevel.StaticMeshActor_4
+[2025.10.02-09.14.19:085][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.02-09.14.19:090][476]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.10.02-09.14.19:098][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D/Assets/Debris/P_Debris.P_Debris
+[2025.10.02-09.14.19:098][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D/Assets/Debris/P_Debris.P_Debris
+[2025.10.02-09.14.19:100][476]LogActorFactory: Actor Factory spawned StaticMesh /Game/3D/Assets/Debris/P_Debris.P_Debris as actor: StaticMeshActor /Game/3D/Test.Test:PersistentLevel.StaticMeshActor_UAID_088FC3615178899402_1411626901
+[2025.10.02-09.14.20:431][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.10.02-09.14.20:436][541]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/3D/Test/0/2R/CWK3UX6H2IR826TDG344A7_Auto4
+[2025.10.02-09.14.20:436][541]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/CWK3UX6H2IR826TDG344A7_Auto455514A00481807AF1FC5D58FFB48098D.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/__ExternalActors__/3D/Test/0/2R/CWK3UX6H2IR826TDG344A7_Auto4.uasset'
+[2025.10.02-09.14.20:437][541]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D/Test' took 0.015
+[2025.10.02-09.14.20:437][541]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2025.10.02-09.14.20:437][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.10.02-09.14.20:439][541]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic.dechet_Material_OcclusionRoughnessMetallic]
+[2025.10.02-09.14.20:439][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic]
+[2025.10.02-09.14.20:473][541]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic_Auto4
+[2025.10.02-09.14.20:473][541]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/dechet_Material_OcclusionRoughneAAAEB40C49B1C83F417032A52BFCABBA.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic_Auto4.uasset'
+[2025.10.02-09.14.20:474][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Texture/Debris/dechet_Material_Normal] ([1] browsable assets)...
+[2025.10.02-09.14.20:476][541]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Texture/Debris/dechet_Material_Normal.dechet_Material_Normal]
+[2025.10.02-09.14.20:476][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Debris/dechet_Material_Normal]
+[2025.10.02-09.14.20:500][541]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Texture/Debris/dechet_Material_Normal_Auto4
+[2025.10.02-09.14.20:500][541]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/dechet_Material_Normal_Auto4FC661A63432BD5A41B444E872CB8FB3B.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Texture/Debris/dechet_Material_Normal_Auto4.uasset'
+[2025.10.02-09.14.20:500][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Texture/Debris/dechet_Material_BaseColor] ([1] browsable assets)...
+[2025.10.02-09.14.20:503][541]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Texture/Debris/dechet_Material_BaseColor.dechet_Material_BaseColor]
+[2025.10.02-09.14.20:503][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Debris/dechet_Material_BaseColor]
+[2025.10.02-09.14.20:518][541]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Texture/Debris/dechet_Material_BaseColor_Auto4
+[2025.10.02-09.14.20:518][541]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/dechet_Material_BaseColor_Auto43AE74D5848BCF7804F094BBF2B1F810D.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Texture/Debris/dechet_Material_BaseColor_Auto4.uasset'
+[2025.10.02-09.14.20:520][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Material/MI_Debris] ([1] browsable assets)...
+[2025.10.02-09.14.20:536][541]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/3D/Material/MI_Debris.MI_Debris]
+[2025.10.02-09.14.20:536][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Material/MI_Debris]
+[2025.10.02-09.14.20:536][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Material/MI_Debris" FILE="../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Material/MI_Debris_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.10.02-09.14.20:537][541]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Material/MI_Debris_Auto4
+[2025.10.02-09.14.20:537][541]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/MI_Debris_Auto415C739024639389A8D684A9A6A21FF3F.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Material/MI_Debris_Auto4.uasset'
+[2025.10.02-09.14.20:538][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Assets/Debris/P_Debris] ([1] browsable assets)...
+[2025.10.02-09.14.20:549][541]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/Assets/Debris/P_Debris.P_Debris]
+[2025.10.02-09.14.20:549][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Debris/P_Debris]
+[2025.10.02-09.14.20:549][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Debris/P_Debris" FILE="../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Assets/Debris/P_Debris_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.10.02-09.14.20:558][541]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Assets/Debris/P_Debris_Auto4
+[2025.10.02-09.14.20:558][541]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/P_Debris_Auto4508C58E2472E28961465469F3D0BBB6F.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Assets/Debris/P_Debris_Auto4.uasset'
+[2025.10.02-09.14.20:559][541]LogFileHelpers: Auto-saving content packages took 0.122
+[2025.10.02-09.14.22:322][644]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.22:322][644]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.22:322][644]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.22:322][644]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.22:322][644]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.22:322][644]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.22:322][644]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.22:322][644]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.22:323][644]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.22:323][644]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.24:683][778]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D/Assets/Debris/P_Debris.P_Debris
+[2025.10.02-09.14.24:757][778]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.10.02-09.14.33:175][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-09.14.33:296][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.02-09.14.33:308][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.10.02-09.14.33:316][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.10.02-09.14.33:318][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/3D/Test/B/KD/I29PWNDJ2E3811OH0A6QWO
+[2025.10.02-09.14.33:318][169]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/I29PWNDJ2E3811OH0A6QWO124616F646A942900B0D59AB895BCDFD.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/__ExternalActors__/3D/Test/B/KD/I29PWNDJ2E3811OH0A6QWO.uasset'
+[2025.10.02-09.14.33:321][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/3D/Test/0/2R/CWK3UX6H2IR826TDG344A7
+[2025.10.02-09.14.33:321][169]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/CWK3UX6H2IR826TDG344A7CEA4B08949D796F1856248BA8409FADC.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/__ExternalActors__/3D/Test/0/2R/CWK3UX6H2IR826TDG344A7.uasset'
+[2025.10.02-09.14.33:338][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.411 ms (total: 1.56 sec)
+[2025.10.02-09.14.33:438][169]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.02-09.14.33:438][169]LogContentValidation: Enabled validators:
+[2025.10.02-09.14.33:438][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-09.14.33:438][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-09.14.33:438][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-09.14.33:438][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-09.14.33:438][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-09.14.33:438][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-09.14.33:438][169]AssetCheck: /Game/3D/Test Validating asset
+[2025.10.02-09.14.34:898][246]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.34:898][246]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.34:898][246]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.34:898][246]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.34:898][246]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.34:898][246]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.34:898][246]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.34:898][246]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.34:899][246]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.34:899][246]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.14.36:397][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.02-09.14.36:403][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-09.14.36:492][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.10.02-09.14.36:492][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_OcclusionRoughnessMetallic]
+[2025.10.02-09.14.36:526][327]LogSavePackage: Moving output files for package: /Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_OcclusionRoughnessMetallic
+[2025.10.02-09.14.36:526][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/scene_game_-_Copie_UV_CHEKER_0017A8281C6488BC009553110B1BED6F7B4.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_OcclusionRoughnessMetallic.uasset'
+[2025.10.02-09.14.36:529][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_Normal] ([1] browsable assets)...
+[2025.10.02-09.14.36:529][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_Normal]
+[2025.10.02-09.14.36:586][327]LogSavePackage: Moving output files for package: /Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_Normal
+[2025.10.02-09.14.36:586][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/scene_game_-_Copie_UV_CHEKER_00186AC77BD40BB650B4EA94CB3FEDD3743.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_Normal.uasset'
+[2025.10.02-09.14.36:588][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_BaseColor] ([1] browsable assets)...
+[2025.10.02-09.14.36:588][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_BaseColor]
+[2025.10.02-09.14.36:636][327]LogSavePackage: Moving output files for package: /Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_BaseColor
+[2025.10.02-09.14.36:636][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/scene_game_-_Copie_UV_CHEKER_0013D86FFFC4D36E65B90FAEEA9874DC3D3.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_BaseColor.uasset'
+[2025.10.02-09.14.36:637][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Material/Salle/MI_Salle] ([1] browsable assets)...
+[2025.10.02-09.14.36:637][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Material/Salle/MI_Salle]
+[2025.10.02-09.14.36:637][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Material/Salle/MI_Salle" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Salle/MI_Salle.uasset" SILENT=true
+[2025.10.02-09.14.36:638][327]LogSavePackage: Moving output files for package: /Game/3D/Material/Salle/MI_Salle
+[2025.10.02-09.14.36:639][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/MI_Salle0965E9814F4CCBBC5B4B51833B503579.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Salle/MI_Salle.uasset'
+[2025.10.02-09.14.36:639][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Salle/P_Salle] ([1] browsable assets)...
+[2025.10.02-09.14.36:639][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Salle/P_Salle]
+[2025.10.02-09.14.36:639][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Salle/P_Salle" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Salle/P_Salle.uasset" SILENT=true
+[2025.10.02-09.14.36:644][327]LogSavePackage: Moving output files for package: /Game/3D/Assets/Salle/P_Salle
+[2025.10.02-09.14.36:644][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/P_Salle5D2D048948A1725B2318B4A09DA3871A.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Salle/P_Salle.uasset'
+[2025.10.02-09.14.36:645][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Rig/Rig_Hand_PhysicsAsset] ([1] browsable assets)...
+[2025.10.02-09.14.36:645][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Rig/Rig_Hand_PhysicsAsset]
+[2025.10.02-09.14.36:645][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Rig/Rig_Hand_PhysicsAsset" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Rig/Rig_Hand_PhysicsAsset.uasset" SILENT=true
+[2025.10.02-09.14.36:647][327]LogSavePackage: Moving output files for package: /Game/3D/Rig/Rig_Hand_PhysicsAsset
+[2025.10.02-09.14.36:647][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Rig_Hand_PhysicsAssetA4815D45493EF78F8B0512A2932A8CB7.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Rig/Rig_Hand_PhysicsAsset.uasset'
+[2025.10.02-09.14.36:648][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Rig/Rig_Hand_Skeleton] ([1] browsable assets)...
+[2025.10.02-09.14.36:648][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Rig/Rig_Hand_Skeleton]
+[2025.10.02-09.14.36:648][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Rig/Rig_Hand_Skeleton" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Rig/Rig_Hand_Skeleton.uasset" SILENT=true
+[2025.10.02-09.14.36:650][327]LogSavePackage: Moving output files for package: /Game/3D/Rig/Rig_Hand_Skeleton
+[2025.10.02-09.14.36:650][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Rig_Hand_Skeleton19C0A1A84DDC566F633F7CBB520D26DB.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Rig/Rig_Hand_Skeleton.uasset'
+[2025.10.02-09.14.36:651][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Rig/Rig_Hand] ([1] browsable assets)...
+[2025.10.02-09.14.36:651][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Rig/Rig_Hand]
+[2025.10.02-09.14.36:651][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Rig/Rig_Hand" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Rig/Rig_Hand.uasset" SILENT=true
+[2025.10.02-09.14.36:657][327]LogSavePackage: Moving output files for package: /Game/3D/Rig/Rig_Hand
+[2025.10.02-09.14.36:657][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Rig_HandBAB97F11490F6D81D78C8FB0DC9A69BC.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Rig/Rig_Hand.uasset'
+[2025.10.02-09.14.36:659][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Material/Hand/Material_Hand] ([1] browsable assets)...
+[2025.10.02-09.14.36:659][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Material/Hand/Material_Hand]
+[2025.10.02-09.14.36:659][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Material/Hand/Material_Hand" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Hand/Material_Hand.uasset" SILENT=true
+[2025.10.02-09.14.36:660][327]LogSavePackage: Moving output files for package: /Game/3D/Material/Hand/Material_Hand
+[2025.10.02-09.14.36:660][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Material_HandA3D7610C462E62724403E49E519C76A0.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Hand/Material_Hand.uasset'
+[2025.10.02-09.14.36:661][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Animation/Animation_HandGrab] ([1] browsable assets)...
+[2025.10.02-09.14.36:661][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Animation/Animation_HandGrab]
+[2025.10.02-09.14.36:661][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Animation/Animation_HandGrab" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Animation/Animation_HandGrab.uasset" SILENT=true
+[2025.10.02-09.14.36:679][327]LogSavePackage: Moving output files for package: /Game/3D/Animation/Animation_HandGrab
+[2025.10.02-09.14.36:679][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Animation_HandGrabF711BD254E543FDDE196A58317C825CD.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Animation/Animation_HandGrab.uasset'
+[2025.10.02-09.14.36:680][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/NewLevelSequence] ([1] browsable assets)...
+[2025.10.02-09.14.36:680][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/NewLevelSequence]
+[2025.10.02-09.14.36:680][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/NewLevelSequence" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/NewLevelSequence.uasset" SILENT=true
+[2025.10.02-09.14.36:683][327]LogSavePackage: Moving output files for package: /Game/3D/NewLevelSequence
+[2025.10.02-09.14.36:683][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/NewLevelSequenceEBEE590A440B0A53366447AACBE549A0.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/NewLevelSequence.uasset'
+[2025.10.02-09.14.36:683][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.10.02-09.14.36:683][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic]
+[2025.10.02-09.14.36:718][327]LogSavePackage: Moving output files for package: /Game/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic
+[2025.10.02-09.14.36:718][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/dechet_Material_OcclusionRoughne40D0CC134A1577C0502B48BB9B3345D2.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic.uasset'
+[2025.10.02-09.14.36:720][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/Debris/dechet_Material_Normal] ([1] browsable assets)...
+[2025.10.02-09.14.36:720][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Debris/dechet_Material_Normal]
+[2025.10.02-09.14.36:720][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Texture/Debris/dechet_Material_Normal" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Debris/dechet_Material_Normal.uasset" SILENT=true
+[2025.10.02-09.14.36:761][327]LogSavePackage: Moving output files for package: /Game/3D/Texture/Debris/dechet_Material_Normal
+[2025.10.02-09.14.36:761][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/dechet_Material_NormalFADDAFB14C758303344F588F9C70123A.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Debris/dechet_Material_Normal.uasset'
+[2025.10.02-09.14.36:762][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Texture/Debris/dechet_Material_BaseColor] ([1] browsable assets)...
+[2025.10.02-09.14.36:762][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Texture/Debris/dechet_Material_BaseColor]
+[2025.10.02-09.14.36:762][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Texture/Debris/dechet_Material_BaseColor" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Debris/dechet_Material_BaseColor.uasset" SILENT=true
+[2025.10.02-09.14.36:798][327]LogSavePackage: Moving output files for package: /Game/3D/Texture/Debris/dechet_Material_BaseColor
+[2025.10.02-09.14.36:798][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/dechet_Material_BaseColor153E71CD469FC2AE67113F93D2859CC8.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Texture/Debris/dechet_Material_BaseColor.uasset'
+[2025.10.02-09.14.36:800][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Material/MI_Debris] ([1] browsable assets)...
+[2025.10.02-09.14.36:800][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Material/MI_Debris]
+[2025.10.02-09.14.36:800][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Material/MI_Debris" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/MI_Debris.uasset" SILENT=true
+[2025.10.02-09.14.36:802][327]LogSavePackage: Moving output files for package: /Game/3D/Material/MI_Debris
+[2025.10.02-09.14.36:802][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/MI_Debris0D53874D466A31D13975FDBC02105FB5.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/MI_Debris.uasset'
+[2025.10.02-09.14.36:802][327]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Assets/Debris/P_Debris] ([1] browsable assets)...
+[2025.10.02-09.14.36:839][327]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/Assets/Debris/P_Debris.P_Debris]
+[2025.10.02-09.14.36:839][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Debris/P_Debris]
+[2025.10.02-09.14.36:839][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Debris/P_Debris" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Debris/P_Debris.uasset" SILENT=true
+[2025.10.02-09.14.36:846][327]LogSavePackage: Moving output files for package: /Game/3D/Assets/Debris/P_Debris
+[2025.10.02-09.14.36:846][327]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/P_Debris3807BA244B464BD8B4D2C3A82F6297D7.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Debris/P_Debris.uasset'
+[2025.10.02-09.14.36:860][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 456.973 ms (total: 2.02 sec)
+[2025.10.02-09.14.36:953][327]LogContentValidation: Display: Starting to validate 16 assets
+[2025.10.02-09.14.36:954][327]LogContentValidation: Enabled validators:
+[2025.10.02-09.14.36:954][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-09.14.36:954][327]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-09.14.36:954][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-09.14.36:954][327]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-09.14.36:954][327]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-09.14.36:954][327]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_OcclusionRoughnessMetallic Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_Normal Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Texture/Salle/scene_game_-_Copie_UV_CHEKER_001_BaseColor Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Material/Salle/MI_Salle Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Assets/Salle/P_Salle Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Rig/Rig_Hand_PhysicsAsset Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Rig/Rig_Hand_Skeleton Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Rig/Rig_Hand Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Material/Hand/Material_Hand Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Animation/Animation_HandGrab Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/NewLevelSequence Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Texture/Debris/dechet_Material_OcclusionRoughnessMetallic Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Texture/Debris/dechet_Material_Normal Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Texture/Debris/dechet_Material_BaseColor Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Material/MI_Debris Validating asset
+[2025.10.02-09.14.36:954][327]AssetCheck: /Game/3D/Assets/Debris/P_Debris Validating asset
+[2025.10.02-09.14.58:591][942]LogContentBrowser: Deferred new asset folder creation: NewFolder1
+[2025.10.02-09.14.58:606][942]LogContentBrowser: Creating deferred item: NewFolder1
+[2025.10.02-09.14.58:620][943]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder1).
+[2025.10.02-09.15.26:051][589]LogContentBrowser: Attempting asset rename: NewFolder1 -> Doigts
+[2025.10.02-09.15.26:052][589]LogContentBrowser: End creating deferred item NewFolder1
+[2025.10.02-09.15.30:566][724]LogStreaming: Display: FlushAsyncLoading(718): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-09.15.30:654][724]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/zheng/Downloads/left_hand.fbx]
+[2025.10.02-09.15.48:318][724]LogSlate: Window 'Import Content' being destroyed
+[2025.10.02-09.15.48:382][724]LogInterchangeEngine: [Pending] Importing
+[2025.10.02-09.15.48:465][726]LogStreaming: Display: FlushAsyncLoading(719): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-09.15.48:584][727]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-09.15.48:636][729]LogStaticMesh: Display: Building static mesh Male_Basemesh_01_006 (Required Memory Estimate: 0.302156 MB)...
+[2025.10.02-09.15.48:636][729]LogStaticMesh: Display: Building static mesh Male_Basemesh_01_004 (Required Memory Estimate: 0.301462 MB)...
+[2025.10.02-09.15.48:636][729]LogStaticMesh: Display: Building static mesh Male_Basemesh_01_007 (Required Memory Estimate: 0.302156 MB)...
+[2025.10.02-09.15.48:636][729]LogStaticMesh: Display: Building static mesh Male_Basemesh_01_003 (Required Memory Estimate: 2.136905 MB)...
+[2025.10.02-09.15.48:636][729]LogStaticMesh: Display: Building static mesh Male_Basemesh_01_005 (Required Memory Estimate: 0.302156 MB)...
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Adjacency [0.00s], tris: 192, UVs 1
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Leaves [0.00s]
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Adjacency [0.00s], tris: 192, UVs 1
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Adjacency [0.00s], tris: 192, UVs 1
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Adjacency [0.00s], tris: 192, UVs 1
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Leaves [0.00s]
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Leaves [0.00s]
+[2025.10.02-09.15.48:638][729]LogStaticMesh: Leaves [0.00s]
+[2025.10.02-09.15.48:641][729]LogStaticMesh: Reduce [0.00s]
+[2025.10.02-09.15.48:641][729]LogStaticMesh: Reduce [0.00s]
+[2025.10.02-09.15.48:642][729]LogStaticMesh: Reduce [0.00s]
+[2025.10.02-09.15.48:642][729]LogStaticMesh: Fallback [0.00s], num tris: 192
+[2025.10.02-09.15.48:642][729]LogStaticMesh: Fallback [0.00s], num tris: 192
+[2025.10.02-09.15.48:642][729]LogStaticMesh: Reduce [0.00s]
+[2025.10.02-09.15.48:642][729]LogStaticMesh: ConstrainClusters:
+[2025.10.02-09.15.48:642][729]LogStaticMesh:   Input: 3 Clusters, 318 Triangles and 221 Vertices
+[2025.10.02-09.15.48:642][729]LogStaticMesh:   Output without splits: 3 Clusters, 318 Triangles and 221 Vertices
+[2025.10.02-09.15.48:642][729]LogStaticMesh:   Output with splits: 3 Clusters, 318 Triangles and 221 Vertices
+[2025.10.02-09.15.48:642][729]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.02-09.15.48:642][729]LogStaticMesh: WritePages:
+[2025.10.02-09.15.48:642][729]LogStaticMesh:   Root: GPU size: 2580 bytes. 1 Pages. 2580.000 bytes per page (7.874% utilization).
+[2025.10.02-09.15.48:642][729]LogStaticMesh:   Streaming: 0 bytes.
+[2025.10.02-09.15.48:642][729]LogStaticMesh:   Page data disk size: 2444 bytes. Fixup data size: 40 bytes.
+[2025.10.02-09.15.48:642][729]LogStaticMesh:   Total GPU size: 2580 bytes, Total disk size: 2484 bytes.
+[2025.10.02-09.15.48:642][729]LogStaticMesh: Encode [0.00s]
+[2025.10.02-09.15.48:642][729]LogStaticMesh: Nanite build [0.00s]
+
+[2025.10.02-09.15.48:642][729]LogStaticMesh: Fallback [0.00s], num tris: 192
+[2025.10.02-09.15.48:643][729]LogStaticMesh: Fallback [0.00s], num tris: 192
+[2025.10.02-09.15.48:643][729]LogStaticMesh: ConstrainClusters:
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Input: 3 Clusters, 318 Triangles and 195 Vertices
+[2025.10.02-09.15.48:643][729]LogStaticMesh: ConstrainClusters:
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Input: 3 Clusters, 318 Triangles and 219 Vertices
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Output without splits: 3 Clusters, 318 Triangles and 206 Vertices
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Output with splits: 3 Clusters, 318 Triangles and 206 Vertices
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Output without splits: 3 Clusters, 318 Triangles and 221 Vertices
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Output with splits: 3 Clusters, 318 Triangles and 221 Vertices
+[2025.10.02-09.15.48:643][729]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.02-09.15.48:643][729]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.02-09.15.48:643][729]LogStaticMesh: WritePages:
+[2025.10.02-09.15.48:643][729]LogStaticMesh: WritePages:
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Root: GPU size: 2492 bytes. 1 Pages. 2492.000 bytes per page (7.605% utilization).
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Streaming: 0 bytes.
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Page data disk size: 2288 bytes. Fixup data size: 40 bytes.
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Root: GPU size: 2640 bytes. 1 Pages. 2640.000 bytes per page (8.057% utilization).
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Streaming: 0 bytes.
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Total GPU size: 2492 bytes, Total disk size: 2328 bytes.
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Page data disk size: 2472 bytes. Fixup data size: 40 bytes.
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Total GPU size: 2640 bytes, Total disk size: 2512 bytes.
+[2025.10.02-09.15.48:643][729]LogStaticMesh: Encode [0.00s]
+[2025.10.02-09.15.48:643][729]LogStaticMesh: Nanite build [0.00s]
+
+[2025.10.02-09.15.48:643][729]LogStaticMesh: Encode [0.00s]
+[2025.10.02-09.15.48:643][729]LogStaticMesh: Nanite build [0.00s]
+
+[2025.10.02-09.15.48:643][729]LogStaticMesh: ConstrainClusters:
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Input: 3 Clusters, 318 Triangles and 219 Vertices
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Output without splits: 3 Clusters, 318 Triangles and 219 Vertices
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Output with splits: 3 Clusters, 318 Triangles and 219 Vertices
+[2025.10.02-09.15.48:643][729]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.02-09.15.48:643][729]LogStaticMesh: WritePages:
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Root: GPU size: 2660 bytes. 1 Pages. 2660.000 bytes per page (8.118% utilization).
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Streaming: 0 bytes.
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Page data disk size: 2744 bytes. Fixup data size: 40 bytes.
+[2025.10.02-09.15.48:643][729]LogStaticMesh:   Total GPU size: 2660 bytes, Total disk size: 2784 bytes.
+[2025.10.02-09.15.48:643][729]LogStaticMesh: Encode [0.00s]
+[2025.10.02-09.15.48:643][729]LogStaticMesh: Nanite build [0.01s]
+
+[2025.10.02-09.15.48:644][729]LogStaticMesh: Adjacency [0.00s], tris: 1382, UVs 1
+[2025.10.02-09.15.48:645][729]LogStaticMesh: Built static mesh [0.01s] /Game/3D/Assets/Doigts/Male_Basemesh_01_005.Male_Basemesh_01_005
+[2025.10.02-09.15.48:645][729]LogStaticMesh: Built static mesh [0.01s] /Game/3D/Assets/Doigts/Male_Basemesh_01_004.Male_Basemesh_01_004
+[2025.10.02-09.15.48:645][729]LogStaticMesh: Built static mesh [0.01s] /Game/3D/Assets/Doigts/Male_Basemesh_01_006.Male_Basemesh_01_006
+[2025.10.02-09.15.48:645][729]LogStaticMesh: Built static mesh [0.01s] /Game/3D/Assets/Doigts/Male_Basemesh_01_007.Male_Basemesh_01_007
+[2025.10.02-09.15.48:647][729]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.10.02-09.15.48:647][729]LogStaticMesh: Leaves [0.00s]
+[2025.10.02-09.15.48:695][730]LogStaticMesh: Reduce [0.05s]
+[2025.10.02-09.15.48:723][731]LogStaticMesh: Fallback [0.03s], num tris: 759
+[2025.10.02-09.15.48:723][731]LogStaticMesh: ConstrainClusters:
+[2025.10.02-09.15.48:723][731]LogStaticMesh:   Input: 23 Clusters, 2892 Triangles and 2226 Vertices
+[2025.10.02-09.15.48:723][731]LogStaticMesh:   Output without splits: 23 Clusters, 2892 Triangles and 2267 Vertices
+[2025.10.02-09.15.48:723][731]LogStaticMesh:   Output with splits: 23 Clusters, 2892 Triangles and 2267 Vertices
+[2025.10.02-09.15.48:723][731]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 23, Slow Path Clusters: 0, 1 Material: 18, 2 Materials: 5, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.02-09.15.48:724][731]LogStaticMesh: WritePages:
+[2025.10.02-09.15.48:724][731]LogStaticMesh:   Root: GPU size: 27588 bytes. 1 Pages. 27588.000 bytes per page (84.192% utilization).
+[2025.10.02-09.15.48:724][731]LogStaticMesh:   Streaming: 0 bytes.
+[2025.10.02-09.15.48:724][731]LogStaticMesh:   Page data disk size: 23592 bytes. Fixup data size: 88 bytes.
+[2025.10.02-09.15.48:724][731]LogStaticMesh:   Total GPU size: 27588 bytes, Total disk size: 23680 bytes.
+[2025.10.02-09.15.48:724][731]LogStaticMesh: Encode [0.00s]
+[2025.10.02-09.15.48:724][731]LogStaticMesh: Nanite build [0.08s]
+
+[2025.10.02-09.15.48:729][731]LogStaticMesh: Built static mesh [0.09s] /Game/3D/Assets/Doigts/Male_Basemesh_01_003.Male_Basemesh_01_003
+[2025.10.02-09.15.48:804][732]LogInterchangeEngine: Display: Interchange import completed [C:/Users/zheng/Downloads/left_hand.fbx]
+[2025.10.02-09.15.48:804][732]Interchange: Warning: [C:/Users/zheng/Downloads/left_hand.fbx : 'Male_Basemesh_01_004', StaticMesh] No smoothing group information was found for this mesh 'Fortnite_Spiderman_No_Way_Home_Peter_Parker_Black_Suit_004' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.10.02-09.15.48:804][732]Interchange: Warning: [C:/Users/zheng/Downloads/left_hand.fbx : 'Male_Basemesh_01_006', StaticMesh] No smoothing group information was found for this mesh 'Fortnite_Spiderman_No_Way_Home_Peter_Parker_Black_Suit_006' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.10.02-09.15.48:804][732]Interchange: Warning: [C:/Users/zheng/Downloads/left_hand.fbx : 'Male_Basemesh_01_007', StaticMesh] No smoothing group information was found for this mesh 'Fortnite_Spiderman_No_Way_Home_Peter_Parker_Black_Suit_007' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.10.02-09.15.48:804][732]Interchange: Warning: [C:/Users/zheng/Downloads/left_hand.fbx : 'Male_Basemesh_01_003', StaticMesh] No smoothing group information was found for this mesh 'Fortnite_Spiderman_No_Way_Home_Peter_Parker_Black_Suit_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.10.02-09.15.48:804][732]Interchange: Warning: [C:/Users/zheng/Downloads/left_hand.fbx : 'Male_Basemesh_01_005', StaticMesh] No smoothing group information was found for this mesh 'Fortnite_Spiderman_No_Way_Home_Peter_Parker_Black_Suit_005' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.10.02-09.15.48:857][732]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.02-09.15.48:857][732]LogInterchangeEngine: [Success] Import Done
+[2025.10.02-09.15.53:848][ 20]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.15.53:848][ 20]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.15.53:848][ 20]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.15.53:848][ 20]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.15.53:848][ 20]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.15.53:848][ 20]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.15.53:848][ 20]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.15.53:848][ 20]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.15.53:863][ 21]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.15.53:863][ 21]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.19:904][582]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D/Assets/Doigts/Male_Basemesh_01_003.Male_Basemesh_01_003
+[2025.10.02-09.16.19:927][582]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.10.02-09.16.30:037][ 99]LogMaterial: Display: Material /Game/3D/Material/Hand/Material_Hand.Material_Hand needed to have new flag set bUsedWithNanite !
+[2025.10.02-09.16.30:053][ 99]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.30:053][ 99]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.30:053][ 99]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.30:053][ 99]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.30:053][ 99]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.30:053][ 99]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.30:053][ 99]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.30:053][ 99]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.35:121][335]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.35:121][335]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.35:121][335]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.35:121][335]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.35:121][335]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.35:121][335]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.35:121][335]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.35:121][335]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.35:122][335]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.35:122][335]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.37:001][431]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D/Assets/Doigts/Male_Basemesh_01_004.Male_Basemesh_01_004
+[2025.10.02-09.16.37:016][431]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.10.02-09.16.40:260][553]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.40:260][553]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.40:260][553]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.40:260][553]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.40:260][553]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.40:260][553]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.40:260][553]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.40:260][553]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.40:261][553]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.40:261][553]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.42:335][661]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D/Assets/Doigts/Male_Basemesh_01_005.Male_Basemesh_01_005
+[2025.10.02-09.16.42:349][661]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.10.02-09.16.47:211][861]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D/Assets/Doigts/Male_Basemesh_01_006.Male_Basemesh_01_006
+[2025.10.02-09.16.47:227][861]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.10.02-09.16.50:820][980]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.50:820][980]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.50:820][980]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.50:820][980]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.50:820][980]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.50:820][980]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.50:820][980]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.50:820][980]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.50:822][980]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.50:822][980]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.52:893][ 87]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D/Assets/Doigts/Male_Basemesh_01_007.Male_Basemesh_01_007
+[2025.10.02-09.16.52:907][ 87]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.10.02-09.16.56:314][207]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.56:314][207]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.56:314][207]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.56:314][207]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.56:314][207]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.56:314][207]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.56:314][207]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.56:314][207]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.56:315][207]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.56:315][207]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.16.58:148][301]LogSlate: Window 'Male_Basemesh_01_007' being destroyed
+[2025.10.02-09.16.58:162][301]LogSlate: Window 'Male_Basemesh_01_007' being destroyed
+[2025.10.02-09.16.58:215][301]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-09.16.58:215][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-09.16.58:275][301]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-09.16.58:276][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-09.16.58:335][301]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-09.16.58:336][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-09.16.58:397][301]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-09.16.58:397][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-09.16.58:456][301]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-09.16.58:456][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-09.16.58:523][301]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-09.16.58:523][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-09.16.58:669][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.02-09.17.01:881][490]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.17.01:881][490]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.17.01:881][490]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.17.01:881][490]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.17.01:881][490]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.17.01:881][490]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.17.01:881][490]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.17.01:882][490]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.17.01:882][490]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.17.01:882][490]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.17.06:956][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-09.17.07:067][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.02-09.17.07:080][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.02-09.17.07:093][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.02-09.17.07:110][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.403 ms (total: 2.17 sec)
+[2025.10.02-09.17.11:471][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3216.833008
+[2025.10.02-09.17.12:471][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-09.17.12:471][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3217.498047, Update Interval: 335.796387
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: ================================================
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Total job queries 507, among them cache hits 110 (21.70%), DDC hits 249 (49.11%), Duplicates 20 (3.94%)
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Tracking 374 distinct input hashes that result in 263 distinct outputs (70.32%)
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: RAM used: 160.82 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Shaders Compiled: 125
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Jobs assigned 125, completed 125 (100%)
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Average time worker was idle: 75.77 s
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 1.21 s
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Job execution time: average 1.09 s, max 3.47 s
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Job life time (pending + execution): average 1.25 s, max 3.54
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Shader code size: average 8.867 KiB, min 4.133 KiB, max 22.77 KiB
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 32.87 s
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Jobs were issued in 125 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Average processing rate: 3.80 jobs/sec
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Total thread time: 92.68 s
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Total thread preprocess time: 8.537 s
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Percentage time preprocessing: 9.21%
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Effective parallelization: 2.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.10 sec, max 3.10 sec, min 3.10 sec)
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.59 sec, max 2.59 sec, min 2.59 sec)
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.58 sec, max 2.58 sec, min 2.58 sec)
+[2025.10.02-09.17.41:799][ 12]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   13 times, average 1.34 sec, max 2.11 sec, min 0.93 sec)
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   14 times, average 1.21 sec, max 1.37 sec, min 0.91 sec)
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.86% of total time (compiled   13 times, average 1.34 sec, max 2.11 sec, min 0.93 sec)
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display:                                             FDebugViewModePS - 18.22% of total time (compiled   14 times, average 1.21 sec, max 1.37 sec, min 0.91 sec)
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.70% of total time (compiled   19 times, average 0.67 sec, max 0.86 sec, min 0.48 sec)
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.87% of total time (compiled   19 times, average 0.43 sec, max 0.55 sec, min 0.32 sec)
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.64% of total time (compiled   14 times, average 0.57 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display: === Material stats ===
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display: Materials Translated:    170
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display: Material Translation Only: 0.04 s (46%)
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display: Material Cache Hits: 20 (12%)
+[2025.10.02-09.17.41:800][ 12]LogShaderCompilers: Display: ================================================
+[2025.10.02-09.22.00:459][765]Cmd: TRANSACTION UNDO
+[2025.10.02-09.22.00:462][765]LogEditorTransaction: Undo StaticMesh: Material changed
+[2025.10.02-09.22.05:531][861]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.22.05:531][861]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.22.05:531][861]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.22.05:531][861]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.22.05:531][861]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.22.05:531][861]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.22.05:531][861]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.22.05:531][861]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.22.05:532][861]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.22.05:532][861]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.23.29:876][114]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3595.238281
+[2025.10.02-09.23.30:878][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-09.23.30:878][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3595.908936, Update Interval: 356.588654
+[2025.10.02-09.24.21:315][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.02-09.24.21:318][268]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D/Test' took 0.015
+[2025.10.02-09.24.21:318][268]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Material/Hand/Material_Hand] ([1] browsable assets)...
+[2025.10.02-09.24.21:318][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Material/Hand/Material_Hand]
+[2025.10.02-09.24.21:319][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Material/Hand/Material_Hand_Auto5
+[2025.10.02-09.24.21:319][268]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Material_Hand_Auto513753378453A8BB600BEA080013DF66A.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Material/Hand/Material_Hand_Auto5.uasset'
+[2025.10.02-09.24.21:321][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Assets/Doigts/Male_Basemesh_01_004] ([1] browsable assets)...
+[2025.10.02-09.24.21:405][268]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/Assets/Doigts/Male_Basemesh_01_004.Male_Basemesh_01_004]
+[2025.10.02-09.24.21:405][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Doigts/Male_Basemesh_01_004]
+[2025.10.02-09.24.21:408][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Assets/Doigts/Male_Basemesh_01_004_Auto5
+[2025.10.02-09.24.21:408][268]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Male_Basemesh_01_004_Auto59B8EB4A7455A7D1F19B857AD2F29FBED.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Assets/Doigts/Male_Basemesh_01_004_Auto5.uasset'
+[2025.10.02-09.24.21:410][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Assets/Doigts/Male_Basemesh_01_006] ([1] browsable assets)...
+[2025.10.02-09.24.21:432][268]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/Assets/Doigts/Male_Basemesh_01_006.Male_Basemesh_01_006]
+[2025.10.02-09.24.21:432][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Doigts/Male_Basemesh_01_006]
+[2025.10.02-09.24.21:434][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Assets/Doigts/Male_Basemesh_01_006_Auto5
+[2025.10.02-09.24.21:434][268]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Male_Basemesh_01_006_Auto5D0A686E94BD40DA4A04FAE92DCB520F3.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Assets/Doigts/Male_Basemesh_01_006_Auto5.uasset'
+[2025.10.02-09.24.21:435][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Assets/Doigts/Male_Basemesh_01_007] ([1] browsable assets)...
+[2025.10.02-09.24.21:456][268]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/Assets/Doigts/Male_Basemesh_01_007.Male_Basemesh_01_007]
+[2025.10.02-09.24.21:456][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Doigts/Male_Basemesh_01_007]
+[2025.10.02-09.24.21:459][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Assets/Doigts/Male_Basemesh_01_007_Auto5
+[2025.10.02-09.24.21:459][268]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Male_Basemesh_01_007_Auto5A1211041427B37536B9EAEB1A1B9CE10.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Assets/Doigts/Male_Basemesh_01_007_Auto5.uasset'
+[2025.10.02-09.24.21:460][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Assets/Doigts/Male_Basemesh_01_003] ([1] browsable assets)...
+[2025.10.02-09.24.21:481][268]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/Assets/Doigts/Male_Basemesh_01_003.Male_Basemesh_01_003]
+[2025.10.02-09.24.21:481][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Doigts/Male_Basemesh_01_003]
+[2025.10.02-09.24.21:486][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Assets/Doigts/Male_Basemesh_01_003_Auto5
+[2025.10.02-09.24.21:486][268]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Male_Basemesh_01_003_Auto5DA33D6124C9F1CA296F5808E183A6A99.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Assets/Doigts/Male_Basemesh_01_003_Auto5.uasset'
+[2025.10.02-09.24.21:487][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Assets/Doigts/Male_Basemesh_01_005] ([1] browsable assets)...
+[2025.10.02-09.24.21:507][268]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/Assets/Doigts/Male_Basemesh_01_005.Male_Basemesh_01_005]
+[2025.10.02-09.24.21:508][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Doigts/Male_Basemesh_01_005]
+[2025.10.02-09.24.21:511][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Assets/Doigts/Male_Basemesh_01_005_Auto5
+[2025.10.02-09.24.21:511][268]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Male_Basemesh_01_005_Auto57AF5108F4BBE8B880C1D6B912A0DB537.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Assets/Doigts/Male_Basemesh_01_005_Auto5.uasset'
+[2025.10.02-09.24.21:512][268]LogFileHelpers: Auto-saving content packages took 0.195
+[2025.10.02-09.25.27:736][468]LogDerivedDataCache: C:/Users/zheng/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.02-09.30.02:246][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3987.604248
+[2025.10.02-09.30.03:246][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-09.30.03:246][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3988.271484, Update Interval: 328.334595
+[2025.10.02-09.35.41:446][826]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D/Assets/Blaster/P_Blaster.P_Blaster
+[2025.10.02-09.35.41:515][826]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.10.02-09.35.43:858][908]LogSlate: Window 'P_Blaster' being destroyed
+[2025.10.02-09.35.43:870][908]LogSlate: Window 'P_Blaster' being destroyed
+[2025.10.02-09.35.43:923][908]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-09.35.43:923][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-09.35.43:965][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.02-09.35.58:157][753]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D/Assets/Sculpture/P_Sculpture.P_Sculpture
+[2025.10.02-09.35.58:227][753]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.10.02-09.36.05:098][ 91]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/3D/Assets/Sculpture/P_Sculpture) ...
+[2025.10.02-09.36.08:360][277]LogSlate: Window 'P_Sculpture' being destroyed
+[2025.10.02-09.36.08:373][277]LogSlate: Window 'P_Sculpture' being destroyed
+[2025.10.02-09.36.08:423][277]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-09.36.08:423][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-09.36.08:462][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.02-09.36.09:394][332]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4354.752930
+[2025.10.02-09.36.09:528][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-09.36.09:528][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4354.870117, Update Interval: 305.145416
+[2025.10.02-09.36.10:156][378]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.36.10:157][378]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.36.10:157][378]LogStaticMesh: Warning: Invalid material [MI_Diament] used on Nanite static mesh [P_Diament]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.36.10:157][378]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.36.10:157][378]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.36.10:157][378]LogStaticMesh: Warning: Invalid material [MI_Lunette] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.36.10:157][378]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Lunette]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.36.10:157][378]LogStaticMesh: Warning: Invalid material [MI_Verre] used on Nanite static mesh [P_Verre]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.36.10:157][378]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.36.10:157][378]LogStaticMesh: Warning: Invalid material [MI_lunettes] used on Nanite static mesh [P_Ampoule]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.02-09.36.59:338][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.02-09.36.59:339][924]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3D/Test' took 0.013
+[2025.10.02-09.36.59:340][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Assets/Sculpture/P_Sculpture] ([1] browsable assets)...
+[2025.10.02-09.36.59:425][924]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/Assets/Sculpture/P_Sculpture.P_Sculpture]
+[2025.10.02-09.36.59:425][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Sculpture/P_Sculpture]
+[2025.10.02-09.36.59:441][924]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D/Assets/Sculpture/P_Sculpture_Auto6
+[2025.10.02-09.36.59:442][924]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/P_Sculpture_Auto6962FB54D43DF33C8A84F2197F8F483A0.tmp' to '../../../../../../Unreal Project/GameJamSCP/Saved/Autosaves/Game/3D/Assets/Sculpture/P_Sculpture_Auto6.uasset'
+[2025.10.02-09.36.59:442][924]LogFileHelpers: Auto-saving content packages took 0.103
+[2025.10.02-09.41.53:927][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4699.294922
+[2025.10.02-09.41.54:926][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-09.41.54:926][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4699.960449, Update Interval: 342.912079
+[2025.10.02-09.48.30:285][997]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5095.644531
+[2025.10.02-09.48.31:285][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-09.48.31:285][  0]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5096.310547, Update Interval: 319.193695
+[2025.10.02-09.48.38:888][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-09.48.39:344][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.10.02-09.48.39:365][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.10.02-09.48.39:381][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.10.02-09.48.39:422][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 534.691 ms (total: 2.71 sec)
+[2025.10.02-09.48.41:256][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.10.02-09.48.41:263][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-09.48.41:471][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Sculpture/P_Sculpture] ([1] browsable assets)...
+[2025.10.02-09.48.41:471][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Sculpture/P_Sculpture]
+[2025.10.02-09.48.41:471][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Sculpture/P_Sculpture" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Sculpture/P_Sculpture.uasset" SILENT=true
+[2025.10.02-09.48.41:518][107]LogSavePackage: Moving output files for package: /Game/3D/Assets/Sculpture/P_Sculpture
+[2025.10.02-09.48.41:518][107]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/P_Sculpture06D0CBE4478D5F20AA444084D834F983.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Sculpture/P_Sculpture.uasset'
+[2025.10.02-09.48.41:586][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Material/Hand/Material_Hand] ([1] browsable assets)...
+[2025.10.02-09.48.41:586][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Material/Hand/Material_Hand]
+[2025.10.02-09.48.41:586][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Material/Hand/Material_Hand" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Hand/Material_Hand.uasset" SILENT=true
+[2025.10.02-09.48.41:600][107]LogSavePackage: Moving output files for package: /Game/3D/Material/Hand/Material_Hand
+[2025.10.02-09.48.41:601][107]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Material_HandAD3D1ED24AA7682CECB61C80034381D2.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Material/Hand/Material_Hand.uasset'
+[2025.10.02-09.48.41:602][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Doigts/Male_Basemesh_01_004] ([1] browsable assets)...
+[2025.10.02-09.48.41:602][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Doigts/Male_Basemesh_01_004]
+[2025.10.02-09.48.41:602][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Doigts/Male_Basemesh_01_004" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Doigts/Male_Basemesh_01_004.uasset" SILENT=true
+[2025.10.02-09.48.41:617][107]LogSavePackage: Moving output files for package: /Game/3D/Assets/Doigts/Male_Basemesh_01_004
+[2025.10.02-09.48.41:617][107]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Male_Basemesh_01_0040B63AF2645685EA7379AD9BC082D67D4.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Doigts/Male_Basemesh_01_004.uasset'
+[2025.10.02-09.48.41:724][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Doigts/Male_Basemesh_01_006] ([1] browsable assets)...
+[2025.10.02-09.48.41:724][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Doigts/Male_Basemesh_01_006]
+[2025.10.02-09.48.41:724][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Doigts/Male_Basemesh_01_006" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Doigts/Male_Basemesh_01_006.uasset" SILENT=true
+[2025.10.02-09.48.41:727][107]LogSavePackage: Moving output files for package: /Game/3D/Assets/Doigts/Male_Basemesh_01_006
+[2025.10.02-09.48.41:727][107]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Male_Basemesh_01_006DC56E14E4C614A9B3D6209B7D4B74EDE.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Doigts/Male_Basemesh_01_006.uasset'
+[2025.10.02-09.48.41:739][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Doigts/Male_Basemesh_01_007] ([1] browsable assets)...
+[2025.10.02-09.48.41:739][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Doigts/Male_Basemesh_01_007]
+[2025.10.02-09.48.41:739][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Doigts/Male_Basemesh_01_007" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Doigts/Male_Basemesh_01_007.uasset" SILENT=true
+[2025.10.02-09.48.41:742][107]LogSavePackage: Moving output files for package: /Game/3D/Assets/Doigts/Male_Basemesh_01_007
+[2025.10.02-09.48.41:742][107]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Male_Basemesh_01_007C1FAF7D94E36F780D97EA2856A6A68B0.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Doigts/Male_Basemesh_01_007.uasset'
+[2025.10.02-09.48.41:744][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Doigts/Male_Basemesh_01_003] ([1] browsable assets)...
+[2025.10.02-09.48.41:744][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Doigts/Male_Basemesh_01_003]
+[2025.10.02-09.48.41:744][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Doigts/Male_Basemesh_01_003" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Doigts/Male_Basemesh_01_003.uasset" SILENT=true
+[2025.10.02-09.48.41:747][107]LogSavePackage: Moving output files for package: /Game/3D/Assets/Doigts/Male_Basemesh_01_003
+[2025.10.02-09.48.41:747][107]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Male_Basemesh_01_00374F23831455AB86B4A56DDAB6F59FDBE.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Doigts/Male_Basemesh_01_003.uasset'
+[2025.10.02-09.48.41:749][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D/Assets/Doigts/Male_Basemesh_01_005] ([1] browsable assets)...
+[2025.10.02-09.48.41:749][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Assets/Doigts/Male_Basemesh_01_005]
+[2025.10.02-09.48.41:749][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Assets/Doigts/Male_Basemesh_01_005" FILE="../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Doigts/Male_Basemesh_01_005.uasset" SILENT=true
+[2025.10.02-09.48.41:760][107]LogSavePackage: Moving output files for package: /Game/3D/Assets/Doigts/Male_Basemesh_01_005
+[2025.10.02-09.48.41:760][107]LogSavePackage: Moving '../../../../../../Unreal Project/GameJamSCP/Saved/Male_Basemesh_01_005684BE1954CE24F3B8A3ACBB1892489D4.tmp' to '../../../../../../Unreal Project/GameJamSCP/Content/3D/Assets/Doigts/Male_Basemesh_01_005.uasset'
+[2025.10.02-09.48.41:783][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 520.371 ms (total: 3.23 sec)
+[2025.10.02-09.48.42:018][107]LogContentValidation: Display: Starting to validate 7 assets
+[2025.10.02-09.48.42:018][107]LogContentValidation: Enabled validators:
+[2025.10.02-09.48.42:024][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-09.48.42:024][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-09.48.42:024][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-09.48.42:024][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-09.48.42:024][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-09.48.42:024][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-09.48.42:065][107]AssetCheck: /Game/3D/Assets/Sculpture/P_Sculpture Validating asset
+[2025.10.02-09.48.42:070][107]AssetCheck: /Game/3D/Material/Hand/Material_Hand Validating asset
+[2025.10.02-09.48.42:070][107]AssetCheck: /Game/3D/Assets/Doigts/Male_Basemesh_01_004 Validating asset
+[2025.10.02-09.48.42:070][107]AssetCheck: /Game/3D/Assets/Doigts/Male_Basemesh_01_006 Validating asset
+[2025.10.02-09.48.42:070][107]AssetCheck: /Game/3D/Assets/Doigts/Male_Basemesh_01_007 Validating asset
+[2025.10.02-09.48.42:070][107]AssetCheck: /Game/3D/Assets/Doigts/Male_Basemesh_01_003 Validating asset
+[2025.10.02-09.48.42:070][107]AssetCheck: /Game/3D/Assets/Doigts/Male_Basemesh_01_005 Validating asset
+[2025.10.02-09.48.55:164][499]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.02-10.04.47:579][500]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.02-10.04.47:595][500]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14732
+[2025.10.02-10.04.47:731][500]LogEOSSDK: Warning: LogHttp: 00000814B846C600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4170E06C-40F0-5F05-74F1-28A9DF9A5016%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.04.47:736][500]LogEOSSDK: Warning: LogHttp: 00000814B846C600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.04.47:736][500]LogEOSSDK: Warning: LogHttp: 00000814B846C600: libcurl info message cache 0 (Too old connection (967 seconds idle), disconnect it)
+[2025.10.02-10.04.47:736][500]LogEOSSDK: Warning: LogHttp: 00000814B846C600: libcurl info message cache 1 (Connection 11 seems to be dead)
+[2025.10.02-10.04.47:736][500]LogEOSSDK: Warning: LogHttp: 00000814B846C600: libcurl info message cache 2 (Closing connection)
+[2025.10.02-10.04.47:736][500]LogEOSSDK: Warning: LogHttp: 00000814B846C600: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.02-10.04.47:736][500]LogEOSSDK: Warning: LogHttp: 00000814B846C600: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.04.47:736][500]LogEOSSDK: Warning: LogHttp: 00000814B846C600: libcurl info message cache 5 (Closing connection)
+[2025.10.02-10.04.47:736][500]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4170E06C-40F0-5F05-74F1-28A9DF9A5016%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.02-10.04.47:827][502]LogEOSSDK: Warning: LogHttp: 00000814B8466600: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.04.47:827][502]LogEOSSDK: Warning: LogHttp: 00000814B8466600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.04.47:827][502]LogEOSSDK: Warning: LogHttp: 00000814B8466600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.04.47:831][502]LogEOSSDK: Warning: LogHttp: 00000814B8466600: libcurl info message cache 1 (Closing connection)
+[2025.10.02-10.04.47:831][502]LogEOSSDK: Warning: LogHttp: 00000814B8467800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.04.47:831][502]LogEOSSDK: Warning: LogHttp: 00000814B8467800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.04.47:831][502]LogEOSSDK: Warning: LogHttp: 00000814B8467800: libcurl info message cache 0 (Found bundle for host: 0x8150d8806f0 [serially])
+[2025.10.02-10.04.47:831][502]LogEOSSDK: Warning: LogHttp: 00000814B8467800: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.04.47:831][502]LogEOSSDK: Warning: LogHttp: 00000814B8467800: libcurl info message cache 2 (Closing connection)
+[2025.10.02-10.04.47:831][502]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.04.47:831][502]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-10.04.48:105][502]LogHttp: Warning: 00000814B90D0E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.04.48:106][502]LogHttp: Warning: 00000814B90D0E00: libcurl info message cache 0 (Too old connection (966 seconds idle), disconnect it)
+[2025.10.02-10.04.48:106][502]LogHttp: Warning: 00000814B90D0E00: libcurl info message cache 1 (Connection 5 seems to be dead)
+[2025.10.02-10.04.48:106][502]LogHttp: Warning: 00000814B90D0E00: libcurl info message cache 2 (Closing connection)
+[2025.10.02-10.04.48:106][502]LogHttp: Warning: 00000814B90D0E00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.02-10.04.48:106][502]LogHttp: Warning: 00000814B90D0E00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.02-10.04.48:106][502]LogHttp: Warning: 00000814B90D0E00: libcurl info message cache 5 (Closing connection)
+[2025.10.02-10.04.48:116][502]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.04.48:746][504]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.02-10.04.48:826][504]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{85c7beb2-bb0c-4297-b96c-67186c8c0432}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1037.12
+[2025.10.02-10.04.48:857][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.02-10.04.48:926][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.02-10.04.48:944][504]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.04.48:944][504]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-10.04.49:088][505]LogEOSSDK: Warning: LogHttp: 00000814B8467800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.04.49:088][505]LogEOSSDK: Warning: LogHttp: 00000814B8467800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.04.49:088][505]LogEOSSDK: Warning: LogHttp: 00000814B8467800: libcurl info message cache 3 (Found bundle for host: 0x8150d880810 [serially])
+[2025.10.02-10.04.49:088][505]LogEOSSDK: Warning: LogHttp: 00000814B8467800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.04.49:088][505]LogEOSSDK: Warning: LogHttp: 00000814B8467800: libcurl info message cache 5 (Closing connection)
+[2025.10.02-10.04.49:088][505]LogEOSSDK: Warning: LogHttp: 00000814B8466600: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.04.49:088][505]LogEOSSDK: Warning: LogHttp: 00000814B8466600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.04.49:088][505]LogEOSSDK: Warning: LogHttp: 00000814B8466600: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.04.49:088][505]LogEOSSDK: Warning: LogHttp: 00000814B8466600: libcurl info message cache 3 (Closing connection)
+[2025.10.02-10.04.49:088][505]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.04.49:093][506]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-10.04.49:435][506]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.04.50:089][508]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.04.50:089][508]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: 00000814B8466600: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: 00000814B8466600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: 00000814B8466600: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: 00000814B8466600: libcurl info message cache 5 (Closing connection)
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: 00000814B8467800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: 00000814B8467800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: 00000814B8467800: libcurl info message cache 6 (Found bundle for host: 0x8150d880330 [serially])
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: 00000814B8467800: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: 00000814B8467800: libcurl info message cache 8 (Closing connection)
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-10.04.50:423][509]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.10.02-10.04.50:752][510]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.04.51:757][514]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.04.52:084][514]LogEOSSDK: Warning: LogHttp: 00000814B8466600: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.04.52:084][514]LogEOSSDK: Warning: LogHttp: 00000814B8466600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.04.52:084][514]LogEOSSDK: Warning: LogHttp: 00000814B8466600: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.04.52:085][515]LogEOSSDK: Warning: LogHttp: 00000814B8466600: libcurl info message cache 7 (Closing connection)
+[2025.10.02-10.04.52:085][515]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.04.52:418][515]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.04.53:418][518]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.04.53:759][519]LogEOSSDK: Warning: LogHttp: 00000814B8466600: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.04.53:759][519]LogEOSSDK: Warning: LogHttp: 00000814B8466600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.04.53:759][519]LogEOSSDK: Warning: LogHttp: 00000814B8466600: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.04.53:759][520]LogEOSSDK: Warning: LogHttp: 00000814B8466600: libcurl info message cache 9 (Closing connection)
+[2025.10.02-10.04.53:759][520]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.04.53:759][520]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.10.02-10.04.53:778][520]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 519...afc
+[2025.10.02-10.05.26:573][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6111.947754
+[2025.10.02-10.05.27:241][956]LogEOSSDK: Warning: LogHttp: 00000815CD2BAE00: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.05.27:241][956]LogEOSSDK: Warning: LogHttp: 00000815CD2BAE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.05.27:241][956]LogEOSSDK: Warning: LogHttp: 00000815CD2BAE00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.05.27:241][956]LogEOSSDK: Warning: LogHttp: 00000815CD2BAE00: libcurl info message cache 1 (Closing connection)
+[2025.10.02-10.05.27:241][956]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.10.02-10.05.27:241][956]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2025.10.02-10.05.27:573][957]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 37.785881 seconds
+[2025.10.02-10.05.35:241][980]LogEOSSDK: Warning: LogHttp: 00000815CD2BEA00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4170E06C-40F0-5F05-74F1-28A9DF9A5016%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.05.35:241][980]LogEOSSDK: Warning: LogHttp: 00000815CD2BEA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.05.35:241][980]LogEOSSDK: Warning: LogHttp: 00000815CD2BEA00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.05.35:241][980]LogEOSSDK: Warning: LogHttp: 00000815CD2BEA00: libcurl info message cache 1 (Closing connection)
+[2025.10.02-10.05.35:241][981]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4170E06C-40F0-5F05-74F1-28A9DF9A5016%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.02-10.05.54:577][ 38]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.05.54:577][ 38]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.05.54:577][ 38]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.05.54:577][ 38]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 1 (Closing connection)
+[2025.10.02-10.05.54:577][ 38]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.05.54:910][ 39]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.05.55:577][ 41]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.05.55:910][ 42]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.05.55:910][ 42]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.05.55:910][ 42]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.05.55:910][ 42]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 3 (Closing connection)
+[2025.10.02-10.05.55:910][ 43]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.05.56:244][ 43]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.05.56:910][ 45]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.05.57:245][ 46]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.05.57:245][ 46]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.05.57:245][ 46]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.05.57:245][ 46]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 5 (Closing connection)
+[2025.10.02-10.05.57:245][ 46]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.05.57:577][ 47]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.05.58:578][ 50]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.05.58:910][ 51]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.05.58:910][ 51]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.05.58:910][ 51]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.05.58:910][ 51]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 7 (Closing connection)
+[2025.10.02-10.05.58:910][ 52]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.05.59:244][ 52]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.05.59:911][ 54]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.06.00:245][ 55]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.06.00:245][ 55]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.06.00:245][ 55]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.06.00:245][ 55]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 9 (Closing connection)
+[2025.10.02-10.06.00:245][ 55]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.06.00:245][ 55]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.10.02-10.06.00:578][ 56]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 519...afc
+[2025.10.02-10.06.05:245][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6150.619141
+[2025.10.02-10.06.05:911][ 72]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.06.05:911][ 72]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.06.05:911][ 72]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.06.05:911][ 72]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 1 (Closing connection)
+[2025.10.02-10.06.05:911][ 72]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.10.02-10.06.05:911][ 72]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2025.10.02-10.06.06:245][ 73]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 59.273048 seconds
+[2025.10.02-10.06.35:248][160]LogEOSSDK: Warning: LogHttp: 00000815CD2BAE00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4170E06C-40F0-5F05-74F1-28A9DF9A5016%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.06.35:248][160]LogEOSSDK: Warning: LogHttp: 00000815CD2BAE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.06.35:248][160]LogEOSSDK: Warning: LogHttp: 00000815CD2BAE00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.06.35:248][160]LogEOSSDK: Warning: LogHttp: 00000815CD2BAE00: libcurl info message cache 1 (Closing connection)
+[2025.10.02-10.06.35:248][161]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4170E06C-40F0-5F05-74F1-28A9DF9A5016%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.02-10.06.41:584][179]LogHttp: Warning: 00000815B50FD200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.06.41:584][179]LogHttp: Warning: 00000815B50FD200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.02-10.06.41:584][179]LogHttp: Warning: 00000815B50FD200: libcurl info message cache 1 (Closing connection)
+[2025.10.02-10.06.47:585][197]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.06.47:585][197]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.06.47:585][197]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.06.47:585][197]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 1 (Closing connection)
+[2025.10.02-10.06.47:585][197]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-10.06.48:918][201]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-10.06.49:250][202]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.06.49:250][202]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.06.49:250][202]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.06.49:250][202]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 3 (Closing connection)
+[2025.10.02-10.06.49:250][202]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-10.06.50:252][205]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-10.06.50:586][206]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.06.50:591][207]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.06.50:591][207]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.06.50:591][207]LogEOSSDK: Warning: LogHttp: 00000815CD2B6C00: libcurl info message cache 5 (Closing connection)
+[2025.10.02-10.06.50:591][207]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A3FC47F5452D6D5DDBD090A36F4E1208
+[2025.10.02-10.06.50:591][207]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.10.02-10.07.00:921][237]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.07.00:921][237]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.07.00:921][237]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.07.00:921][237]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 1 (Closing connection)
+[2025.10.02-10.07.00:921][237]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.07.01:252][238]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.07.01:922][240]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.07.02:255][241]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.07.02:255][241]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.07.02:255][241]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.07.02:255][241]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 3 (Closing connection)
+[2025.10.02-10.07.02:255][241]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.07.02:589][242]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.07.03:589][245]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.07.03:923][246]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.07.03:923][246]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.07.03:923][246]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.07.03:923][246]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 5 (Closing connection)
+[2025.10.02-10.07.03:923][247]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.07.04:255][247]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.07.05:255][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6210.629883
+[2025.10.02-10.07.05:255][250]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.07.05:590][251]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.07.05:590][251]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.07.05:590][251]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.07.05:590][252]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 7 (Closing connection)
+[2025.10.02-10.07.05:590][252]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.07.05:923][252]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: 519...afc
+[2025.10.02-10.07.05:923][252]LogEOSSDK: Warning: LogHttp: 00000815CD2BA200: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.07.05:923][252]LogEOSSDK: Warning: LogHttp: 00000815CD2BA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.07.05:923][252]LogEOSSDK: Warning: LogHttp: 00000815CD2BA200: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.07.05:923][252]LogEOSSDK: Warning: LogHttp: 00000815CD2BA200: libcurl info message cache 1 (Closing connection)
+[2025.10.02-10.07.05:923][252]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.10.02-10.07.05:923][252]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2025.10.02-10.07.06:256][253]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 56.208687 seconds
+[2025.10.02-10.07.06:922][255]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.07.07:255][256]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.02-10.07.07:255][256]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.02-10.07.07:255][256]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.02-10.07.07:255][256]LogEOSSDK: Warning: LogHttp: 00000815CD2B8A00: libcurl info message cache 9 (Closing connection)
+[2025.10.02-10.07.07:256][257]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.10.02-10.07.07:256][257]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.10.02-10.07.07:590][257]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 519...afc
