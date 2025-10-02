@@ -1967,3 +1967,53 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2025.10.02-11.55.01:374][582]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.02-11.55.01:374][582]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.02-11.55.01:374][582]AssetCheck: /Game/BP/BP_ItemManager Validating asset
+[2025.10.02-11.56.25:093][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.02-11.56.25:938][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-11.56.26:001][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_ItemManager] ([2] browsable assets)...
+[2025.10.02-11.56.26:001][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_ItemManager]
+[2025.10.02-11.56.26:001][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_ItemManager" FILE="../../../../../../Users/ellio/Desktop/iim/UnrealEngine_Projects/GameJamSCP/Content/BP/BP_ItemManager.uasset" SILENT=true
+[2025.10.02-11.56.26:096][419]LogSavePackage: Moving output files for package: /Game/BP/BP_ItemManager
+[2025.10.02-11.56.26:097][419]LogSavePackage: Moving '../../../../../../Users/ellio/Desktop/iim/UnrealEngine_Projects/GameJamSCP/Saved/BP_ItemManagerF52E908C41B7DC72812954869F796646.tmp' to '../../../../../../Users/ellio/Desktop/iim/UnrealEngine_Projects/GameJamSCP/Content/BP/BP_ItemManager.uasset'
+[2025.10.02-11.56.26:117][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.823 ms (total: 3.39 sec)
+[2025.10.02-11.56.26:168][419]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.02-11.56.26:168][419]LogContentValidation: Enabled validators:
+[2025.10.02-11.56.26:168][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-11.56.26:168][419]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-11.56.26:168][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-11.56.26:168][419]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-11.56.26:168][419]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-11.56.26:168][419]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-11.56.26:168][419]AssetCheck: /Game/BP/BP_ItemManager Validating asset
+[2025.10.02-11.56.32:622][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-11.56.32:683][760]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_ItemManager] ([2] browsable assets)...
+[2025.10.02-11.56.32:683][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_ItemManager]
+[2025.10.02-11.56.32:683][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_ItemManager" FILE="../../../../../../Users/ellio/Desktop/iim/UnrealEngine_Projects/GameJamSCP/Content/BP/BP_ItemManager.uasset" SILENT=true
+[2025.10.02-11.56.32:772][760]LogSavePackage: Moving output files for package: /Game/BP/BP_ItemManager
+[2025.10.02-11.56.32:774][760]LogSavePackage: Moving '../../../../../../Users/ellio/Desktop/iim/UnrealEngine_Projects/GameJamSCP/Saved/BP_ItemManager8F86627B42BDFEA8DFD5ADADE53E9777.tmp' to '../../../../../../Users/ellio/Desktop/iim/UnrealEngine_Projects/GameJamSCP/Content/BP/BP_ItemManager.uasset'
+[2025.10.02-11.56.32:794][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.800 ms (total: 3.57 sec)
+[2025.10.02-11.56.32:870][760]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.02-11.56.32:870][760]LogContentValidation: Enabled validators:
+[2025.10.02-11.56.32:870][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-11.56.32:870][760]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-11.56.32:870][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-11.56.32:870][760]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-11.56.32:871][760]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-11.56.32:871][760]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-11.56.32:871][760]AssetCheck: /Game/BP/BP_ItemManager Validating asset
+[2025.10.02-11.56.38:606][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-11.56.38:667][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_ItemManager] ([2] browsable assets)...
+[2025.10.02-11.56.38:667][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_ItemManager]
+[2025.10.02-11.56.38:667][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_ItemManager" FILE="../../../../../../Users/ellio/Desktop/iim/UnrealEngine_Projects/GameJamSCP/Content/BP/BP_ItemManager.uasset" SILENT=true
+[2025.10.02-11.56.38:751][ 85]LogSavePackage: Moving output files for package: /Game/BP/BP_ItemManager
+[2025.10.02-11.56.38:752][ 85]LogSavePackage: Moving '../../../../../../Users/ellio/Desktop/iim/UnrealEngine_Projects/GameJamSCP/Saved/BP_ItemManager841EBC8D44FB307A0DB60E9622A28C72.tmp' to '../../../../../../Users/ellio/Desktop/iim/UnrealEngine_Projects/GameJamSCP/Content/BP/BP_ItemManager.uasset'
+[2025.10.02-11.56.38:776][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.101 ms (total: 3.74 sec)
+[2025.10.02-11.56.38:858][ 85]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.02-11.56.38:859][ 85]LogContentValidation: Enabled validators:
+[2025.10.02-11.56.38:859][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-11.56.38:859][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-11.56.38:859][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-11.56.38:859][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-11.56.38:859][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-11.56.38:859][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-11.56.38:859][ 85]AssetCheck: /Game/BP/BP_ItemManager Validating asset
+[2025.10.02-11.57.04:484][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
